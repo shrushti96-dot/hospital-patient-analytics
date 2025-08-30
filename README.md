@@ -64,4 +64,4 @@ This project highlights how raw hospital admission data can be converted into **
 ---
 
 ## 🔗 Project Link
-*(Add your GitHub repository link here once finalized, e.g. `https://github.com/YourUser/hospital-patient-analytics`)*  
+*(https://github.com/shrushti96-dot/hospital-patient-analytics)*  
