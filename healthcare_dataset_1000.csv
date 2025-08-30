@@ -1,0 +1,1001 @@
+Patient_ID,Name,Age,Gender,Department,Disease,Doctor,Admission_Date,Discharge_Date,Bill_Amount,City,Insurance
+PID1000,Phillip Nelson,82,Other,Orthopedics,Hypertension,Victor Rogers,2025-06-01,2024-09-05,60182.73,North Adam,Yes
+PID1001,Dana Tapia,15,Other,Neurology,Flu,Joshua Ortega,2024-04-15,2025-03-28,20087.27,New Beth,Yes
+PID1002,Carl White,4,Other,Pediatrics,Diabetes,Zachary Smith,2024-05-20,2025-01-29,79187.54,Darrenchester,No
+PID1003,Michael Morris,36,Female,Cardiology,COVID-19,Erica Rios,2024-03-23,2025-06-09,110382.86,New Michaelshire,Yes
+PID1004,Laura Campbell,32,Female,Orthopedics,Arthritis,John Gordon,2023-10-10,2024-11-04,98698.71,Marcusfurt,No
+PID1005,Joann Morgan,29,Male,Neurology,Diabetes,Garrett Mcclure,2025-04-14,2025-03-03,11846.47,Erikview,No
+PID1006,Dr. Kevin Hanson DDS,18,Female,Cardiology,Hypertension,Michael Webb,2024-09-09,2025-03-06,1759.3,Monicabury,No
+PID1007,Danielle Moore,14,Other,Orthopedics,Flu,Megan Bowen,2024-02-22,2025-07-05,18438.04,East Henrychester,Yes
+PID1008,Angela Diaz,87,Female,Cardiology,Flu,Crystal Morgan,2023-10-09,2025-02-13,164955.56,Lake Christopher,Yes
+PID1009,Jennifer Cabrera,70,Other,General Medicine,Healthy Checkup,Mark Jones,2025-05-02,2025-02-28,125393.1,Owenshire,No
+PID1010,Travis Crawford,12,Female,General Medicine,Flu,Donald Garcia,2024-05-24,2025-06-12,96585.35,Lake Samanthaside,No
+PID1011,James Allen,76,Female,Orthopedics,Asthma,Colleen Morris,2024-05-20,2025-08-23,20300.39,New Katherinemouth,No
+PID1012,Shawn Davis,55,Other,Neurology,COVID-19,Molly Mckee DVM,2023-12-03,2025-04-22,42183.64,Port Michellehaven,No
+PID1013,Brittany Griffin,5,Other,Neurology,Diabetes,Christopher Thompson,2023-11-10,2024-09-19,127999.94,Lake Brandonmouth,No
+PID1014,Jason Michael,4,Female,Cardiology,Flu,Pamela Martinez,2024-03-26,2025-03-28,195434.48,West Angela,No
+PID1015,David Berger,12,Female,Orthopedics,Flu,David Johnson,2025-07-05,2025-07-17,95240.56,Port Gwendolyn,No
+PID1016,Tiffany Wood,28,Male,Pediatrics,Hypertension,Robert Norton,2024-07-01,2025-06-12,23986.28,West William,Yes
+PID1017,Kenneth Hunter,30,Other,General Medicine,Healthy Checkup,Jessica Howard,2023-09-01,2025-05-01,157190.44,Cainberg,No
+PID1018,Eric Griffin,65,Male,Neurology,Flu,Melvin Weber,2023-12-23,2025-04-19,94717.95,Tonyafort,No
+PID1019,Ryan Short,78,Female,General Medicine,Flu,Jonathon Williams,2024-03-24,2025-07-10,179080.62,Lake Brandon,Yes
+PID1020,Walter Dodson,4,Other,Pediatrics,Arthritis,Connor Smith,2025-01-28,2025-02-19,53735.88,Romerofort,No
+PID1021,Michelle Cooper,72,Female,Pediatrics,Flu,Diana Garcia,2025-08-11,2025-08-24,128731.41,Markshire,No
+PID1022,Brian Ortega,26,Other,Oncology,Asthma,William Williams,2025-01-30,2025-08-12,78117.9,North Johnport,No
+PID1023,Jenna Kim,84,Female,Cardiology,COVID-19,Mr. Dalton Martinez,2025-04-15,2025-04-11,74833.08,Lake Christinashire,No
+PID1024,Kathryn Williams,90,Male,Cardiology,Arthritis,Wendy Brown,2025-03-08,2025-08-05,76907.59,Ellisonshire,No
+PID1025,Roger Phillips,70,Male,Cardiology,Healthy Checkup,Danielle Ross,2023-12-05,2025-05-01,38130.01,Whitneyburgh,No
+PID1026,Edward Bennett,54,Male,Orthopedics,Asthma,Sabrina Bell,2024-05-17,2025-05-29,9878.77,Andreaborough,Yes
+PID1027,Anthony Hunt,29,Other,Neurology,COVID-19,Heather Vaughan,2023-11-26,2025-01-13,88508.34,South Michaelport,Yes
+PID1028,Blake King,58,Other,Neurology,COVID-19,David Powers,2025-05-20,2025-04-18,53416.76,Lake Michaelshire,Yes
+PID1029,Stephen French,76,Other,Oncology,Asthma,Tina Williams,2025-08-25,2025-04-21,167578.67,South Adam,No
+PID1030,Claudia Hansen,36,Male,General Medicine,Healthy Checkup,Lindsey Baker,2024-07-05,2025-01-05,113285.07,Normanville,Yes
+PID1031,William Walsh,1,Other,Oncology,Healthy Checkup,Briana Peters,2024-11-08,2024-10-12,31075.0,Carlosfort,Yes
+PID1032,Betty Smith,21,Female,Oncology,Hypertension,Catherine Thompson,2024-03-02,2024-09-13,139597.72,Schneiderhaven,Yes
+PID1033,Amanda Jimenez,90,Other,Pediatrics,Healthy Checkup,Michelle Atkins,2025-05-14,2025-06-23,20243.82,North Robin,No
+PID1034,Miguel Garcia,55,Male,Cardiology,Asthma,Andrea Smith,2024-03-26,2025-05-03,133960.09,Allenside,No
+PID1035,Trevor Walker,44,Male,Orthopedics,Flu,Jeremy Gibbs,2024-01-07,2025-07-22,161827.85,Bendermouth,Yes
+PID1036,Michael Ramirez,36,Female,Neurology,Asthma,Mark Dean,2024-04-26,2024-09-24,83383.34,North Ruthton,Yes
+PID1037,Scott Bowman,20,Other,Orthopedics,Asthma,William Medina,2025-01-16,2025-06-21,151534.92,Williamsstad,No
+PID1038,Jennifer Wright,28,Other,Cardiology,Arthritis,Cynthia Lee,2025-04-24,2025-04-24,46275.04,Vanessaview,Yes
+PID1039,Jeffrey Kelly,44,Female,Cardiology,Diabetes,Daniel Harris,2024-10-10,2024-11-12,13135.77,New Lisa,Yes
+PID1040,Brian Marshall,14,Female,Neurology,Flu,Alicia Jimenez,2024-04-11,2025-04-01,78034.11,Allenberg,Yes
+PID1041,Carol Goodman,12,Male,Pediatrics,Cancer,Thomas Nguyen,2024-06-24,2025-08-25,104993.87,Gardnerbury,No
+PID1042,Stephen Glover,49,Other,General Medicine,Diabetes,Anthony Young,2023-10-19,2024-09-23,193159.91,Higginsstad,No
+PID1043,Elizabeth Stewart,13,Female,Oncology,COVID-19,Jessica Ball DDS,2025-03-16,2025-05-19,137726.52,South Marthaview,Yes
+PID1044,Jared Curtis,46,Other,Pediatrics,Arthritis,Amber Lowe,2023-12-23,2025-08-29,187335.93,North Joshua,Yes
+PID1045,Annette Frey,45,Female,Cardiology,COVID-19,Teresa Solomon,2024-10-18,2025-07-12,114970.14,New John,No
+PID1046,Andrew Carter,78,Male,Cardiology,Cancer,Colleen Walters,2024-03-28,2025-03-16,47892.76,Amberland,Yes
+PID1047,Rebecca Hall,34,Female,Pediatrics,Flu,Adam Miller,2024-11-08,2024-09-05,60471.57,Mullentown,No
+PID1048,William Smith,6,Female,Oncology,Asthma,Angela James,2024-01-11,2025-07-10,79566.07,Tylertown,Yes
+PID1049,Ashley Kirk,59,Female,Oncology,Flu,William Castro,2025-02-27,2025-03-11,170934.02,Thompsonfurt,Yes
+PID1050,Kenneth Evans,69,Female,Cardiology,Arthritis,Brian Davis,2024-01-08,2025-04-23,7910.97,Welchchester,No
+PID1051,Lisa Anderson,16,Female,General Medicine,Flu,Tristan Hudson,2024-04-06,2025-05-31,114672.77,Brookshaven,No
+PID1052,Leah York,49,Other,Oncology,Healthy Checkup,Jennifer Burns,2024-05-08,2025-07-26,103846.66,Lake Patriciaview,No
+PID1053,Joshua Cardenas,11,Male,Oncology,Asthma,Kimberly Alvarado,2023-09-04,2024-09-05,114725.6,South Debbie,Yes
+PID1054,Courtney Wilson,71,Male,Neurology,COVID-19,David Graham,2024-10-17,2024-09-23,196568.2,Campbelltown,Yes
+PID1055,Jane Jones,38,Female,General Medicine,Healthy Checkup,Kimberly West,2023-12-07,2025-01-07,30342.08,Port Veronicaburgh,No
+PID1056,Shawn Riddle,81,Female,Neurology,Healthy Checkup,Austin Carter,2025-02-24,2025-07-13,189901.71,Courtneyberg,No
+PID1057,Timothy Serrano,80,Other,Orthopedics,Healthy Checkup,Zachary Lane,2025-01-01,2024-12-24,90358.91,Morganbury,Yes
+PID1058,Gregory Moreno,47,Female,Pediatrics,Cancer,Jenny Turner,2024-10-12,2025-03-03,189863.24,South Katherine,Yes
+PID1059,Travis Pitts,74,Female,Cardiology,Asthma,Guy Gibson,2023-10-09,2024-12-12,34265.79,East Hollyland,No
+PID1060,Karen Raymond,25,Other,Oncology,Cancer,Kathryn Rice,2025-07-17,2025-04-28,43166.14,Alberthaven,Yes
+PID1061,Thomas Cox,9,Female,Orthopedics,Cancer,Michelle Henderson DDS,2023-09-28,2024-09-11,39352.49,Erinton,Yes
+PID1062,Shelby Brown,6,Other,Neurology,Healthy Checkup,Mark Nichols,2024-06-25,2025-06-15,9492.5,West Davidmouth,Yes
+PID1063,David Zhang,85,Male,Oncology,Cancer,Christine Jones,2023-09-01,2024-12-24,16595.34,New Jacquelinebury,Yes
+PID1064,James Patrick,30,Female,Pediatrics,Diabetes,Tara Thomas,2024-02-29,2025-06-05,136941.97,New Michaelborough,Yes
+PID1065,Ryan Bolton,38,Male,Neurology,Diabetes,Tammy Anderson,2023-10-25,2025-02-05,41181.94,Kristenfurt,No
+PID1066,Dustin Smith,11,Female,General Medicine,Hypertension,Sherri Lynn,2024-11-17,2025-01-15,164690.24,Robertport,Yes
+PID1067,Lance Liu,30,Female,General Medicine,Diabetes,Ashley Deleon,2023-12-22,2025-03-10,30427.77,New Michelle,Yes
+PID1068,Rachel Mcmahon,13,Female,Cardiology,Diabetes,Lawrence Padilla,2025-03-13,2025-04-30,119414.48,Joseborough,Yes
+PID1069,Shelby Owen,49,Male,Oncology,Arthritis,Sarah Gray,2024-06-19,2025-06-28,64630.15,South Samuelton,Yes
+PID1070,Holly Collins,36,Female,Orthopedics,Cancer,Ronald Williams,2024-06-05,2025-06-04,145693.5,Port Victorland,No
+PID1071,Pamela Jordan,59,Other,Cardiology,Flu,Julie Horton MD,2024-09-24,2025-05-10,161661.39,Vincentberg,No
+PID1072,Eric Aguirre,82,Male,Oncology,Hypertension,Michael Leach,2024-01-15,2025-04-22,18318.46,Dianeview,No
+PID1073,Jeanne Oconnor,47,Other,Oncology,Cancer,Anna Holmes,2025-02-28,2025-07-09,111716.48,Smithmouth,No
+PID1074,John Smith,21,Other,Oncology,Diabetes,Melissa Randolph,2024-12-15,2025-04-21,110858.78,Daniellemouth,No
+PID1075,Scott Taylor,48,Female,Oncology,Flu,Kirsten Coleman,2025-06-21,2025-07-23,171468.21,Johnfurt,Yes
+PID1076,Briana Simpson,46,Female,Oncology,Healthy Checkup,Ashley Rodriguez,2023-12-19,2025-05-21,104417.95,Mitchellland,Yes
+PID1077,Carl Moore,27,Male,Cardiology,Asthma,Mckenzie Phelps,2024-11-18,2024-09-16,183515.22,Lake Kevinbury,Yes
+PID1078,Douglas Miller,86,Male,Pediatrics,Diabetes,Dawn Garcia,2024-10-16,2025-01-10,3460.4,North Stephaniebury,Yes
+PID1079,Lisa Hill,35,Other,Pediatrics,Healthy Checkup,Audrey Jensen,2024-01-24,2024-11-01,140382.01,Rebeccaside,No
+PID1080,John Wood,90,Female,Cardiology,Healthy Checkup,Heather Barrera,2024-11-17,2024-10-10,117927.64,Gutierrezport,No
+PID1081,Sydney Campbell,88,Other,General Medicine,Diabetes,Barbara Hubbard,2024-10-02,2024-09-08,156555.45,New Tyler,No
+PID1082,Ethan Hernandez,83,Female,Pediatrics,Diabetes,David Lopez,2025-06-19,2024-12-07,23391.25,West Chad,No
+PID1083,Brenda Turner,10,Other,Orthopedics,Arthritis,Joshua Mitchell,2025-04-18,2024-12-05,30778.82,Jacobville,Yes
+PID1084,Eric Odonnell,78,Female,Orthopedics,Diabetes,Donald Hernandez,2024-11-09,2024-12-02,113752.19,Mosschester,Yes
+PID1085,Stephen Dixon DVM,82,Male,General Medicine,Diabetes,Steven Miller,2024-09-15,2024-10-27,116952.74,South Samuel,No
+PID1086,William Harvey,22,Male,Cardiology,COVID-19,Jamie Morales,2024-09-30,2024-09-28,193001.5,South Nathanstad,No
+PID1087,Dillon Walter,69,Female,Orthopedics,COVID-19,Kimberly Mitchell,2023-12-29,2025-08-05,20940.6,West Teresachester,Yes
+PID1088,Steven Boyd,32,Other,Cardiology,Diabetes,Ashley Shannon,2024-05-06,2024-12-02,22021.33,New Kennethview,No
+PID1089,Stephen Davenport,21,Male,Orthopedics,Arthritis,Brianna Crawford,2025-07-08,2024-10-13,156129.39,Territown,Yes
+PID1090,Meredith Warner,60,Female,Neurology,Cancer,Gina Fisher,2024-11-24,2024-11-26,157363.38,East Michelletown,No
+PID1091,Meredith Hancock,49,Female,General Medicine,Hypertension,Patrick Larson,2024-02-10,2024-10-28,173627.58,Simmonsside,Yes
+PID1092,Desiree Perry,35,Other,General Medicine,Hypertension,Jeffrey Baldwin,2024-03-31,2025-05-21,176147.02,Rodriguezborough,Yes
+PID1093,Courtney Hall,82,Female,General Medicine,Cancer,Darrell Sanders,2024-02-05,2025-06-18,175700.82,West Eric,No
+PID1094,Richard Schmidt,89,Male,Cardiology,Flu,Scott Greene,2025-05-02,2025-08-06,53563.19,Tonyafurt,No
+PID1095,Kerry Arnold,72,Male,Oncology,Flu,Dana Johnson,2024-04-11,2024-12-04,131302.75,West Edwardburgh,Yes
+PID1096,Jacob Wright,29,Other,General Medicine,COVID-19,Cassandra Miller,2024-11-18,2024-12-21,114832.62,Martinezland,No
+PID1097,Laura Patel,88,Other,Orthopedics,Asthma,Lauren Barrett,2025-04-09,2025-06-17,95136.28,South Kevin,No
+PID1098,Matthew Moore,42,Male,Neurology,COVID-19,Victoria Nichols,2023-11-26,2025-05-06,35267.75,Lake Joanna,No
+PID1099,Joseph Lin,8,Other,Cardiology,Arthritis,Christopher Ball,2024-11-28,2024-10-25,81191.82,New Margaret,No
+PID1100,Kathy Garcia,30,Male,Orthopedics,Hypertension,Craig Pratt,2024-10-24,2025-07-29,124030.65,Port Madison,No
+PID1101,Mrs. Karen Smith,5,Female,Oncology,Asthma,Timothy Lang,2024-11-25,2025-07-15,136481.76,Martinezville,Yes
+PID1102,Peter Guerra,41,Other,Orthopedics,Arthritis,Calvin Parker,2025-03-23,2025-08-15,80942.26,Amandaton,No
+PID1103,Michael Mcgee,52,Male,General Medicine,Healthy Checkup,Adam Contreras,2024-12-25,2024-09-28,79762.76,Lake Preston,No
+PID1104,Michael Moss,35,Other,Neurology,Flu,Matthew Collins,2024-11-10,2024-11-30,175912.57,Port Leonardhaven,No
+PID1105,Timothy Brown,9,Female,General Medicine,Flu,Cindy Best,2025-03-27,2025-03-21,138412.24,East Barbara,Yes
+PID1106,Jesus Mitchell,28,Male,Pediatrics,COVID-19,Bryan Hernandez,2025-01-19,2025-04-26,10808.9,North Tina,No
+PID1107,Shelley Cook,73,Male,General Medicine,Hypertension,Heather Kline,2024-05-15,2024-09-11,95568.42,Port Desireetown,Yes
+PID1108,Johnny Vasquez,41,Male,Pediatrics,Diabetes,Omar Bartlett,2025-01-26,2024-11-02,54448.29,South Tylerchester,No
+PID1109,Marvin Lindsey,28,Female,General Medicine,Hypertension,Rachel Matthews,2024-06-18,2024-10-04,75115.7,Jeffreyberg,Yes
+PID1110,Elizabeth Garcia,84,Male,Neurology,Arthritis,David Sanchez,2024-11-17,2024-12-26,68235.35,South Johnport,No
+PID1111,Johnathan Parks,64,Other,Neurology,Arthritis,Lisa Sloan,2024-04-15,2025-03-03,158936.76,Port Connormouth,Yes
+PID1112,Jennifer Brown,51,Male,Cardiology,Arthritis,Mrs. Janet Carson,2023-10-29,2025-02-18,62878.91,Sosamouth,Yes
+PID1113,George Roberts,83,Female,General Medicine,Healthy Checkup,Cheyenne Donovan,2023-12-27,2025-04-26,168726.47,Lake Julia,No
+PID1114,Mr. Steven Mccarthy DDS,59,Other,Pediatrics,Diabetes,Alyssa Oliver,2025-07-18,2025-04-15,171788.72,New Douglasburgh,No
+PID1115,Thomas Chase,19,Female,Cardiology,Diabetes,Lindsay Walker,2023-12-17,2025-04-12,137285.55,East Austinmouth,No
+PID1116,Dawn Coleman,34,Other,Orthopedics,Cancer,Ashley Meza,2024-04-06,2025-07-18,194526.83,East Linda,Yes
+PID1117,Sean Taylor,18,Other,Neurology,Hypertension,Hailey Williamson,2024-02-18,2025-02-26,46363.53,Zhangtown,No
+PID1118,Jason Wolfe,32,Female,Cardiology,Healthy Checkup,Thomas Dudley,2025-01-08,2025-04-13,60795.61,Saraton,Yes
+PID1119,Gregory Flynn,72,Female,Neurology,Arthritis,David Mejia,2024-04-17,2024-10-08,149001.0,South Anthony,No
+PID1120,William Clarke,69,Female,Cardiology,Asthma,Brian Lee,2024-03-02,2025-01-20,155032.15,Hillton,Yes
+PID1121,Melody Johnston,34,Female,Orthopedics,Hypertension,Cindy Vega,2024-10-21,2024-12-08,64852.79,New Darren,No
+PID1122,Jason Wilson,75,Male,Orthopedics,Diabetes,Kaitlyn Brooks,2025-03-29,2025-07-24,146031.08,Lake Tannerton,No
+PID1123,Alex Michael,55,Female,Oncology,Flu,Haley Schmidt,2024-09-01,2024-11-19,121390.85,Duncanview,Yes
+PID1124,Andrew Hill,75,Other,Pediatrics,Flu,Carolyn Beck,2024-09-27,2025-01-11,18768.08,East Debra,Yes
+PID1125,Nicholas Jones,52,Male,Oncology,Healthy Checkup,Marcus Cameron,2024-11-26,2025-03-18,88901.6,Shellyville,No
+PID1126,Jason Herrera,47,Female,Pediatrics,COVID-19,Karen Ortiz,2025-07-19,2025-08-16,182773.13,Mathewmouth,No
+PID1127,Micheal Duncan,29,Male,Orthopedics,Diabetes,Jose Willis,2025-02-03,2025-06-19,82026.9,East Paula,No
+PID1128,Renee Haas,18,Other,Cardiology,Hypertension,Courtney Crane,2024-01-16,2025-04-19,97407.61,West Lesliechester,Yes
+PID1129,Donald Park,66,Other,General Medicine,COVID-19,Jean Gonzalez,2023-11-05,2025-05-02,103783.78,Lake Brenda,No
+PID1130,Shelley Hernandez,64,Other,Neurology,Diabetes,Shelly Shaffer,2023-11-11,2025-06-21,75408.13,South Kennethberg,Yes
+PID1131,Andrew Ortiz,12,Male,Orthopedics,Cancer,William Howard,2024-07-04,2025-03-29,12184.96,East Matthew,Yes
+PID1132,Charles Ali,7,Male,Orthopedics,Asthma,Jennifer Nguyen,2024-01-27,2024-08-30,158506.59,Gibsonchester,No
+PID1133,Brett Thomas II,15,Female,Cardiology,Diabetes,Lisa Hodge,2025-04-10,2025-04-24,14057.78,East Steven,Yes
+PID1134,Diana Diaz MD,20,Female,General Medicine,Flu,Stephanie Barry,2024-04-10,2025-04-16,142204.31,East Alexandermouth,Yes
+PID1135,Dalton Rodriguez,81,Female,Orthopedics,Cancer,Stephanie Klein,2025-01-15,2024-11-28,81273.64,Mcdanielbury,Yes
+PID1136,Erin Serrano,21,Other,Orthopedics,Arthritis,Hannah Stanley,2023-11-21,2025-04-13,156322.77,Jacksonmouth,No
+PID1137,Michael Chang,88,Female,Cardiology,Hypertension,Robert Brown,2024-11-28,2025-06-04,105332.96,Wendymouth,Yes
+PID1138,Eric Goodwin,55,Male,Orthopedics,COVID-19,Michelle Irwin DDS,2024-04-24,2025-05-01,114165.79,Lake Erik,Yes
+PID1139,Eric Reed,77,Female,Pediatrics,Cancer,Jennifer Parker,2024-03-08,2025-08-20,35573.73,East Connie,Yes
+PID1140,Lee Brown,9,Other,Pediatrics,Flu,John Jones,2025-04-10,2024-12-19,175160.93,Wagnershire,Yes
+PID1141,Matthew Stephens,50,Female,General Medicine,Arthritis,Andrea Farmer,2024-12-16,2025-04-10,40944.63,Amyton,No
+PID1142,Laura Pearson,49,Other,Pediatrics,Asthma,Joshua Soto,2024-02-11,2025-02-06,12467.88,South Martin,Yes
+PID1143,Karen Cox,77,Other,Pediatrics,Arthritis,Angela Richards,2024-04-13,2024-11-30,7581.14,Ronaldborough,Yes
+PID1144,Rodney Jones,60,Other,Orthopedics,Cancer,Ashley Brown,2025-05-04,2024-10-29,11061.3,Port Susan,Yes
+PID1145,Angel Keller,68,Female,Neurology,Hypertension,Kimberly Long,2024-12-02,2024-10-20,72714.64,Bartonmouth,Yes
+PID1146,Hunter Meyers,33,Male,Pediatrics,Asthma,Martin Ruiz,2023-11-06,2025-08-11,40622.84,Patriciachester,No
+PID1147,Robert Patton,71,Female,General Medicine,Diabetes,Robert Sellers,2024-10-17,2024-11-21,74302.03,Westton,Yes
+PID1148,Sarah Davidson,2,Other,Pediatrics,Hypertension,Michael Kane,2025-04-12,2024-10-10,93379.47,North Kyleside,Yes
+PID1149,Katherine White,88,Female,Orthopedics,Arthritis,Billy Davis,2025-04-20,2024-11-09,79991.51,New John,No
+PID1150,Daniel Robinson,15,Female,Oncology,Flu,James Maldonado,2024-06-17,2025-08-05,184691.64,Collinchester,No
+PID1151,Jason Carter PhD,88,Female,Orthopedics,Hypertension,James Norris,2025-03-16,2025-03-18,136553.7,Paulview,No
+PID1152,Jennifer Ryan MD,69,Other,Cardiology,Asthma,Nicholas Carlson,2024-09-28,2025-02-23,49145.68,Lake Kirkberg,No
+PID1153,Brittney Williams,35,Other,General Medicine,Arthritis,Amy Bryant,2025-01-02,2025-06-06,98268.56,Darrylborough,No
+PID1154,Joseph Lucero,83,Female,Pediatrics,Asthma,Joseph Williams,2024-12-12,2024-10-27,89774.58,North Anitahaven,No
+PID1155,Bryan Mitchell,44,Female,Cardiology,Diabetes,Emily Ramirez,2024-06-12,2025-01-31,192143.56,Hooperhaven,Yes
+PID1156,Alexander Howard,15,Female,Pediatrics,COVID-19,Raven Gray,2024-03-03,2025-07-22,95441.88,Kristinaborough,No
+PID1157,Michelle Carrillo,38,Male,Oncology,Healthy Checkup,Michael Blankenship,2025-06-22,2025-06-25,110715.41,Williamchester,No
+PID1158,Mary Burton,56,Other,Neurology,Healthy Checkup,Brian Vaughn,2023-12-23,2024-11-09,69505.55,North Rebecca,Yes
+PID1159,Kristen Alexander,21,Male,Oncology,Flu,Joshua Espinoza,2024-06-23,2025-04-09,167693.1,Brianmouth,Yes
+PID1160,Ryan Robinson,59,Other,Orthopedics,Asthma,Lori Phillips,2024-09-13,2025-07-17,52473.33,West Carrieside,Yes
+PID1161,Patrick Curry,1,Female,Orthopedics,Arthritis,Kristin Bell,2025-02-14,2025-01-03,166343.17,South Jacquelineville,No
+PID1162,Brenda Mclaughlin,34,Male,Cardiology,Arthritis,Clifford Taylor,2025-07-31,2025-06-12,18987.99,West Marcfurt,No
+PID1163,Jacob Wade,65,Female,Cardiology,Cancer,Laurie Donovan,2024-08-17,2025-03-02,6462.65,New Josephshire,Yes
+PID1164,Renee Bell,23,Male,Orthopedics,Arthritis,Joshua Valdez,2024-09-02,2025-06-17,10880.56,North Taylorland,No
+PID1165,Taylor Griffin,65,Female,General Medicine,Hypertension,Dawn Lewis,2023-09-26,2025-04-03,170910.44,Danielberg,No
+PID1166,Ross Martinez DDS,14,Other,Orthopedics,COVID-19,Jeffery Johnson,2025-02-07,2025-06-30,156186.2,New Sonia,Yes
+PID1167,Thomas Miller,81,Female,Orthopedics,Flu,Nicholas Brock,2024-10-05,2025-02-11,43649.4,Andreafurt,No
+PID1168,Tiffany Johnson,39,Other,Pediatrics,Hypertension,Kevin Cox,2024-06-06,2024-12-20,45048.86,North Lauren,Yes
+PID1169,Brandon Hernandez,82,Female,Oncology,Hypertension,Jeanette Nunez,2024-02-27,2024-11-14,45797.3,North Lisa,No
+PID1170,Christine Rodgers,65,Female,General Medicine,COVID-19,Jesus Gonzalez,2025-04-01,2025-07-06,42139.47,North Mary,No
+PID1171,Ernest Stuart,78,Other,Pediatrics,Cancer,Roy Peters,2024-09-19,2025-02-28,130665.88,New Ritastad,Yes
+PID1172,David Parker,26,Other,Neurology,Arthritis,Charles Ball,2025-05-31,2024-11-16,103142.97,West Russellhaven,Yes
+PID1173,Daniel Luna,20,Male,General Medicine,Cancer,Amanda Owens,2025-07-20,2025-02-26,173061.36,West Mallory,Yes
+PID1174,Haley Howard,48,Female,Pediatrics,Arthritis,Spencer Boone,2024-02-15,2025-01-27,193460.53,North Janice,No
+PID1175,Andrew Farmer,21,Male,Orthopedics,Asthma,Chelsea Knight,2024-07-30,2025-01-11,136757.75,Port Thomaschester,Yes
+PID1176,Julia Fisher,70,Male,Pediatrics,Asthma,Christina Perez,2025-04-03,2025-04-21,95345.34,Port Caitlinside,No
+PID1177,Ms. Shirley Taylor DVM,68,Other,Cardiology,Hypertension,Ivan Maynard,2025-07-24,2025-06-01,27330.5,Collinsberg,No
+PID1178,Seth Small,1,Other,General Medicine,Hypertension,Tara Jones,2025-06-14,2025-03-17,35466.93,Garzaville,No
+PID1179,Thomas Wilson,77,Female,Orthopedics,Diabetes,Sylvia Park,2024-01-10,2025-07-02,160372.1,New Sydneyburgh,Yes
+PID1180,Christopher Graham,42,Male,Oncology,COVID-19,Megan Mitchell,2024-01-05,2024-11-21,45530.24,Owensport,No
+PID1181,Brittany Donaldson,63,Female,Pediatrics,Healthy Checkup,Samuel Gonzalez,2024-07-26,2025-08-10,122060.43,Reyesside,Yes
+PID1182,Gail Holden,3,Male,Orthopedics,Asthma,Jesse Weeks,2024-08-28,2025-01-16,188657.99,Edwinland,No
+PID1183,Gregory Alexander,15,Other,General Medicine,COVID-19,James Harper,2023-09-21,2024-11-12,142835.36,Cantrellberg,No
+PID1184,Caitlin Gallegos,47,Female,Cardiology,Hypertension,Brittney Mcclain,2025-06-17,2025-05-24,142164.27,West Donnaland,No
+PID1185,Kristina Kelly,40,Male,Cardiology,Cancer,Kimberly Thomas,2025-05-09,2025-01-25,55800.33,East Matthew,No
+PID1186,Jacqueline Ray,31,Other,General Medicine,Hypertension,John George,2024-01-09,2024-10-05,179201.11,Sotohaven,Yes
+PID1187,Jessica Crosby,8,Male,General Medicine,Cancer,Tracy Stephens,2025-01-21,2025-03-21,170465.65,West Kim,No
+PID1188,Marvin Bishop,31,Female,Pediatrics,Arthritis,Antonio Harris,2024-05-05,2025-04-17,92340.61,North Michaelshire,No
+PID1189,Brandy Gross,73,Other,Orthopedics,Healthy Checkup,Dr. Sean Gonzalez,2025-06-14,2025-08-01,44423.6,New Josephberg,Yes
+PID1190,Michael Elliott,11,Male,Oncology,Arthritis,Eric Cooley,2023-10-08,2025-04-02,61126.87,New Christy,No
+PID1191,Eric Lawson,11,Male,General Medicine,Hypertension,Ronnie Bennett,2024-05-30,2025-05-21,104606.94,Port Wendy,No
+PID1192,Rodney Allen,63,Female,General Medicine,Diabetes,Jason Joyce,2023-11-29,2025-02-28,125097.61,Lake Elaine,No
+PID1193,Raymond Herrera,9,Female,Neurology,Hypertension,Kristina Brown,2023-09-22,2025-07-24,117312.94,Gibbsbury,No
+PID1194,George Moreno,69,Female,Cardiology,Asthma,Benjamin Walker,2024-02-26,2024-09-09,2462.17,West Joshuaton,No
+PID1195,Andrew Spencer,17,Other,Neurology,Hypertension,Matthew Reid,2024-09-28,2024-10-05,199886.45,Vasquezton,No
+PID1196,Angela Lopez,17,Other,Oncology,Asthma,Danielle Lopez,2024-08-04,2025-05-06,193330.61,North Christine,Yes
+PID1197,Chase Burton,85,Female,General Medicine,Arthritis,Holly Esparza,2024-03-31,2024-12-30,168036.31,Taylorfort,Yes
+PID1198,Christopher Vincent,61,Other,Pediatrics,Diabetes,Travis Nunez,2023-09-16,2024-12-08,112729.97,East Peterchester,Yes
+PID1199,James Smith,71,Male,Cardiology,COVID-19,Willie Martinez,2025-07-16,2025-02-22,119160.74,Kennethville,Yes
+PID1200,Nancy Cox,22,Female,Neurology,Arthritis,William Hanson,2024-09-21,2024-09-19,57252.7,Parksmouth,No
+PID1201,Dylan White,34,Other,Cardiology,Arthritis,Lisa Jennings,2025-04-14,2025-04-15,137198.21,East Kellyshire,Yes
+PID1202,Denise Davidson,68,Other,Neurology,Hypertension,Brenda Campos,2024-10-18,2024-12-24,96865.95,Port Steven,No
+PID1203,Jason Gray,78,Female,General Medicine,Flu,Dawn Hendricks,2025-01-10,2024-12-04,67920.45,West Allisontown,No
+PID1204,Brian Contreras,55,Female,Orthopedics,Cancer,Mary Zamora,2024-04-16,2024-11-29,56020.17,Williamsonview,Yes
+PID1205,Brenda Pope,28,Other,Orthopedics,Arthritis,Lauren Becker,2025-08-25,2024-09-07,65702.28,Dannyfurt,Yes
+PID1206,Rachel Hancock,70,Other,Pediatrics,Cancer,James Jackson,2023-09-01,2024-10-02,56100.1,Haynesberg,Yes
+PID1207,Marvin Mccarthy,89,Female,Oncology,Cancer,Jonathan Vasquez,2024-06-08,2024-10-09,131567.8,Lambertberg,No
+PID1208,Amy Rocha,26,Other,Cardiology,COVID-19,Stephen Lawson,2025-05-25,2025-06-06,190485.37,Port Sierrafort,Yes
+PID1209,Elizabeth Ward,40,Male,Oncology,COVID-19,Michael Walker,2025-06-02,2024-10-24,130641.83,Lopezstad,Yes
+PID1210,Charles Garner,52,Other,Neurology,COVID-19,Tiffany Jacobson,2024-10-16,2024-09-30,38483.66,Proctorchester,No
+PID1211,Lindsay Santos,86,Male,General Medicine,Healthy Checkup,Jeffrey Heath,2024-11-24,2025-07-12,103941.42,Stephenmouth,No
+PID1212,Jeanette Moore,84,Male,Pediatrics,Cancer,Karina Perez,2025-03-03,2025-05-27,48820.11,Rochaport,Yes
+PID1213,Crystal Hall,48,Other,Orthopedics,Hypertension,Michael Lucas,2025-01-17,2025-03-08,12298.16,South Tiffanystad,No
+PID1214,Shelby Brady,57,Other,Orthopedics,Cancer,John Hatfield,2025-05-22,2024-10-27,171605.76,Bradymouth,No
+PID1215,Cynthia Norris,67,Female,Pediatrics,Arthritis,Brad Nunez,2024-01-26,2025-08-25,162195.77,South Stephanie,No
+PID1216,Reginald Myers,58,Male,Cardiology,COVID-19,John Hunt,2024-11-02,2025-06-04,81415.59,North Cherylstad,No
+PID1217,Raymond Crawford,16,Other,Oncology,Arthritis,John Mullins,2025-04-23,2025-03-07,64597.56,New Christopher,Yes
+PID1218,Kristin Carter,32,Male,Neurology,COVID-19,Brian Chung,2024-09-20,2025-02-19,28845.97,South Jasmine,No
+PID1219,Cameron Rogers,29,Female,Oncology,Healthy Checkup,Christine Mccormick MD,2024-06-23,2024-12-09,6065.6,North Anna,Yes
+PID1220,Martin Jacobs,9,Male,Orthopedics,Hypertension,Colton Harrington,2024-11-03,2025-03-26,99977.19,South Russellmouth,Yes
+PID1221,Joseph Ray,44,Other,Pediatrics,Asthma,Robert Tanner,2024-02-03,2025-01-20,59825.32,Port Robert,Yes
+PID1222,Shelby Liu,3,Other,Orthopedics,COVID-19,Jessica Grant,2024-08-30,2025-04-05,181475.4,Barrside,Yes
+PID1223,Justin Soto,76,Male,General Medicine,Flu,Deborah Taylor,2023-12-27,2024-11-11,81515.18,Jacobsonfort,No
+PID1224,Patrick Moon,71,Female,Orthopedics,Healthy Checkup,Natalie Martin,2023-09-28,2025-02-21,147609.69,New Spencer,No
+PID1225,Jeffrey Martin MD,30,Male,Neurology,Flu,Shirley Bird,2025-08-23,2024-10-21,117021.72,South Carol,Yes
+PID1226,Richard Russell,76,Other,Cardiology,Healthy Checkup,Jason Torres,2024-11-05,2025-02-04,198955.99,New Brittany,No
+PID1227,Tina Wilson,29,Female,Cardiology,Hypertension,Jordan Butler,2024-04-01,2024-09-20,163386.93,East Lisashire,No
+PID1228,Matthew Smith,1,Male,General Medicine,Cancer,Paul Gordon,2024-04-28,2024-12-18,69290.24,Jonesmouth,No
+PID1229,Joshua Pratt,10,Male,Neurology,COVID-19,Zachary Ponce,2024-03-07,2025-03-17,142960.49,South Susanhaven,No
+PID1230,Cheryl Johnson,81,Female,Pediatrics,Diabetes,Brianna Joseph,2024-01-11,2025-07-25,137577.3,Lake Andrea,No
+PID1231,Christine Cardenas,8,Male,Oncology,Arthritis,Megan Romero,2023-12-01,2025-05-17,128024.4,West Todd,No
+PID1232,Mary Matthews,30,Female,Pediatrics,Asthma,Ashley Ellis,2024-03-04,2025-05-20,95671.31,Sabrinachester,No
+PID1233,Ryan Taylor,9,Female,Oncology,Arthritis,Sarah Oliver,2024-03-05,2024-11-18,188192.92,New Kimstad,Yes
+PID1234,Lisa Walker,5,Female,Cardiology,Asthma,Kevin Castro,2024-08-10,2024-09-16,72340.93,South Rhonda,No
+PID1235,Geoffrey Skinner,43,Female,Orthopedics,Healthy Checkup,Jon Gomez,2025-01-22,2025-02-05,60738.77,Greeneborough,Yes
+PID1236,Casey Hale,10,Male,Orthopedics,Asthma,Jason Camacho,2025-02-19,2025-04-17,34827.35,East Kimberlyfort,No
+PID1237,Keith Burke,66,Male,General Medicine,Arthritis,Timothy Hill,2025-03-16,2025-01-05,131865.32,Bullockborough,Yes
+PID1238,Edward Rogers,31,Other,Pediatrics,Cancer,Charles Blake,2025-08-04,2025-01-13,112091.36,Warrenborough,Yes
+PID1239,Kristen Mcdonald,36,Female,Neurology,COVID-19,Kenneth Martinez,2024-10-07,2025-04-02,59463.03,North Tiffanyville,No
+PID1240,Matthew Thompson,86,Other,Oncology,Asthma,Douglas White,2025-08-17,2025-06-28,94685.39,Cynthiaberg,No
+PID1241,Amber Wilson,63,Other,Orthopedics,Flu,Richard Murray,2024-12-22,2025-05-20,148442.86,New Ericland,No
+PID1242,Jonathan Hayes,28,Male,General Medicine,Healthy Checkup,Joseph Richardson,2024-07-29,2024-11-08,145312.14,West Miranda,No
+PID1243,Daniel Brown,70,Male,Pediatrics,Asthma,Tom Brown,2023-11-16,2025-07-06,112247.3,Cohenfort,No
+PID1244,Angela Baker,17,Male,Neurology,Cancer,Jonathan Bullock,2025-05-05,2025-05-28,182612.33,Aliciafort,Yes
+PID1245,Courtney Simmons,74,Male,Cardiology,Arthritis,Vickie Flores,2025-04-27,2024-11-17,189437.75,West Paulside,No
+PID1246,Maria Clark,74,Other,Neurology,Asthma,Scott Myers,2025-03-08,2024-10-14,180018.64,Victoriashire,No
+PID1247,Rebecca Smith,61,Female,Cardiology,COVID-19,Mary Burton,2024-04-17,2025-04-21,131232.49,Oconnormouth,No
+PID1248,John Nelson,32,Other,Pediatrics,Healthy Checkup,Kayla Johnson,2024-11-24,2024-10-10,45228.45,South Marymouth,Yes
+PID1249,Angela Burke,61,Other,Neurology,Flu,Seth Ward,2024-01-05,2024-11-19,45442.26,New Kellyborough,Yes
+PID1250,Emma Smith,53,Male,General Medicine,Asthma,Brandy Russell,2025-07-26,2025-01-01,174415.01,Smithburgh,No
+PID1251,Bradley Green,25,Female,Pediatrics,Arthritis,Carol Jackson,2024-10-15,2024-11-04,84674.04,New Madison,No
+PID1252,David Osborne,13,Other,Cardiology,COVID-19,David Gonzalez,2024-02-04,2025-01-02,177481.87,North Robert,No
+PID1253,Kathleen King,13,Male,General Medicine,Arthritis,Jenny Gould,2024-05-22,2024-10-12,74964.8,Jenniferburgh,Yes
+PID1254,Jacqueline Harding,85,Male,Orthopedics,Asthma,Kristin King,2025-07-04,2025-08-07,117528.57,New Christian,Yes
+PID1255,Anthony Montoya,56,Female,General Medicine,Hypertension,James Hawkins,2025-03-06,2025-08-05,93288.37,Jessicaland,Yes
+PID1256,Anita Hall,46,Other,Orthopedics,Flu,Victoria Myers,2024-05-21,2024-11-05,24438.51,Wayneburgh,No
+PID1257,Jeremy Gallegos,55,Female,General Medicine,Cancer,Phillip Elliott,2023-11-04,2025-04-09,11681.71,New Scott,Yes
+PID1258,Amy Garcia,53,Female,Cardiology,Diabetes,Eugene Lloyd,2024-03-13,2024-10-21,127244.95,Danielleberg,No
+PID1259,Shawn Jensen,60,Female,Oncology,Healthy Checkup,Danielle Barron,2024-05-01,2024-11-27,116482.31,East Kimberlyfurt,No
+PID1260,Craig Jacobs,7,Other,Oncology,Flu,Christopher Hernandez,2025-06-07,2024-09-05,124510.28,East Erika,No
+PID1261,Elizabeth Silva,87,Male,Orthopedics,Healthy Checkup,James Taylor,2025-06-05,2025-07-26,94971.72,Vaughanfort,No
+PID1262,William Barton,84,Female,Orthopedics,COVID-19,Rhonda Campbell,2023-11-17,2025-01-10,39714.22,Lake Williamville,No
+PID1263,Theresa Blake,83,Female,Neurology,Hypertension,Dana Price,2024-12-26,2025-03-12,24843.37,Brookemouth,No
+PID1264,Ashley Arias,13,Other,General Medicine,Arthritis,Anthony Townsend,2024-04-11,2025-08-25,136458.86,West Lydiaside,No
+PID1265,Kyle Young,8,Other,General Medicine,Healthy Checkup,Michele Austin,2025-01-30,2024-09-17,106437.86,Port Angela,No
+PID1266,Gregory White,52,Male,General Medicine,Cancer,Randy Smith,2025-01-20,2024-12-16,83208.34,Hallburgh,No
+PID1267,Gabriel Wolfe,44,Male,General Medicine,COVID-19,Rebecca Richards,2025-01-01,2025-06-27,174298.98,Coleshire,No
+PID1268,Jack Shah,14,Female,Neurology,Flu,Christopher Cruz,2023-12-17,2024-10-04,31004.91,Andrewville,Yes
+PID1269,John Calhoun,32,Female,Orthopedics,COVID-19,Brian Lloyd,2023-11-24,2025-02-05,198477.22,East Julie,Yes
+PID1270,Sarah Dawson,25,Other,Oncology,Cancer,Jamie Bailey,2024-12-26,2025-02-02,69191.31,North Steven,Yes
+PID1271,Diana Fisher,25,Female,Neurology,Arthritis,Nichole Nguyen,2025-02-06,2024-12-20,197451.13,Jacobport,Yes
+PID1272,Katherine White,69,Other,Cardiology,Arthritis,Anthony Williams,2024-09-09,2024-10-31,178676.18,Amandaberg,Yes
+PID1273,Jeffrey Reese,58,Female,Neurology,Hypertension,Samantha Gray,2024-05-04,2025-06-23,197343.2,Timothymouth,No
+PID1274,Bobby Golden,18,Other,Neurology,Healthy Checkup,Kevin Lopez,2023-11-01,2024-10-05,29501.61,South Omar,Yes
+PID1275,Barbara White,55,Female,Neurology,Healthy Checkup,Peter Carey,2025-04-18,2025-05-08,172616.39,West Moniquestad,Yes
+PID1276,Monica Garcia,24,Female,Pediatrics,Arthritis,Travis Nguyen,2024-11-14,2025-07-22,36891.0,Robertsonfort,Yes
+PID1277,Mario Roberts,36,Female,Cardiology,Arthritis,Samantha Carroll,2023-11-09,2024-10-28,17081.48,North Kristiborough,No
+PID1278,Manuel Smith,60,Male,Orthopedics,Diabetes,Norma Bailey,2024-04-30,2024-10-17,67193.26,Dixonstad,Yes
+PID1279,Daniel Moore,32,Female,Oncology,Asthma,Brooke Pace,2024-04-14,2024-11-28,197341.43,Raymondmouth,Yes
+PID1280,Joshua Morgan,10,Female,Oncology,Hypertension,Michael Gonzalez,2024-02-19,2025-04-08,63369.4,East Tracyside,Yes
+PID1281,Maria Nguyen,57,Male,Orthopedics,Hypertension,Brittany Rivers,2024-07-22,2025-03-11,12544.7,Youngshire,No
+PID1282,Bobby Collins,71,Male,Pediatrics,Flu,Troy Sparks,2024-11-21,2025-03-04,90958.59,Drewview,Yes
+PID1283,Megan Evans,13,Female,Oncology,Asthma,Samantha Hobbs,2025-08-18,2025-01-12,42667.09,North Todd,Yes
+PID1284,Sarah Jones,7,Other,Neurology,Cancer,Leslie Eaton,2025-07-10,2025-03-19,154934.91,West Jonathan,No
+PID1285,Allen Johnson,84,Female,Oncology,Diabetes,Jaime Williamson,2024-01-14,2025-04-14,115679.5,Espinozachester,Yes
+PID1286,Brandon Turner,70,Other,Cardiology,Arthritis,Melanie Willis,2024-01-17,2024-12-22,32528.59,Port Christophershire,Yes
+PID1287,Corey Pena,2,Female,Cardiology,Asthma,Kathryn Esparza,2024-03-21,2024-09-10,157256.97,Curtismouth,No
+PID1288,Amanda James,12,Other,Orthopedics,Arthritis,Nathaniel Gomez,2024-12-23,2024-08-30,156170.74,Lake Karen,Yes
+PID1289,Rebecca Wilson,31,Female,Pediatrics,Hypertension,John Johnson,2025-01-04,2025-04-23,26751.79,East Corey,Yes
+PID1290,Daniel Lynch,22,Male,General Medicine,Diabetes,Robert Lee,2024-11-26,2025-08-26,87308.57,Brownmouth,No
+PID1291,Maria Williams,53,Other,General Medicine,Hypertension,Amber Burke,2024-03-16,2025-02-08,86452.53,Baileyview,No
+PID1292,Monica Reed,63,Female,Pediatrics,COVID-19,Alicia Martin,2023-12-29,2025-07-11,86376.06,New Williamport,Yes
+PID1293,Robert Wagner,62,Female,Oncology,Flu,Aaron Nicholson,2025-04-25,2024-10-06,96002.65,South Heather,Yes
+PID1294,Rhonda Townsend,28,Male,Pediatrics,Flu,Brett Case,2024-04-26,2025-06-14,1929.16,New Carriestad,No
+PID1295,Cory Graham,52,Other,Pediatrics,Healthy Checkup,Robin Hayes,2025-04-19,2025-05-24,107222.74,West Ann,No
+PID1296,Katrina Smith,8,Other,Oncology,Asthma,Christopher Williams,2024-05-09,2025-01-09,146401.16,North Marcton,Yes
+PID1297,Shelia Torres,22,Other,Cardiology,Arthritis,Anthony Schwartz,2023-10-07,2025-08-04,190063.65,South Jayview,Yes
+PID1298,Dr. Timothy Rogers,49,Male,Neurology,Healthy Checkup,Brittany Holland,2024-04-21,2025-08-13,178509.27,Port Garrett,Yes
+PID1299,David Perez,1,Other,Orthopedics,Cancer,John Marshall,2024-05-09,2025-04-05,151612.7,New Natalieview,Yes
+PID1300,Elizabeth Powell,50,Other,General Medicine,Asthma,Joshua Cook,2023-09-07,2025-03-07,106675.72,North Nicolastown,Yes
+PID1301,Jennifer Gamble,34,Female,Cardiology,Diabetes,Douglas Deleon,2024-01-02,2025-01-05,4565.31,Estradachester,No
+PID1302,Amanda Brady,59,Female,Pediatrics,Healthy Checkup,Charlotte Mendez,2025-07-09,2025-02-22,1820.64,Port Keithstad,No
+PID1303,Rebecca Martin,37,Male,Pediatrics,Hypertension,James Osborne,2024-10-29,2024-11-13,146987.04,Sandovalhaven,No
+PID1304,John Hines,55,Other,General Medicine,COVID-19,John Miller,2024-06-03,2025-04-26,46026.88,Courtneychester,No
+PID1305,Tracy Nicholson,90,Female,Oncology,Arthritis,Denise Jones,2023-11-01,2025-05-30,175520.04,Scottstad,No
+PID1306,Bradley Salazar,72,Male,Orthopedics,Hypertension,Terry Cook MD,2025-04-21,2025-06-28,63106.36,Tylerville,No
+PID1307,Justin Martin,85,Other,Neurology,Hypertension,Dennis Gonzalez,2024-08-22,2025-02-20,21438.94,Rodriguezberg,Yes
+PID1308,Christopher Duncan,63,Male,Oncology,Cancer,Kara Lynch,2024-04-23,2025-01-07,101163.96,East Sarah,Yes
+PID1309,Gabriel Brown,20,Other,General Medicine,Asthma,Tiffany Woods,2023-10-24,2025-05-24,61916.9,Burnsberg,No
+PID1310,Ann Allen,25,Female,Oncology,COVID-19,Rachel Horton DVM,2025-02-24,2024-09-23,13992.12,West Steven,No
+PID1311,Kim Robertson,38,Other,Neurology,Asthma,James Buckley,2025-02-02,2025-02-19,10097.95,Wuburgh,No
+PID1312,Christopher Johnson,28,Other,Neurology,Healthy Checkup,Joshua Collins,2025-03-21,2025-08-27,189744.21,Michelleborough,No
+PID1313,Kristin Li,8,Other,Pediatrics,Flu,Warren Smith,2025-02-01,2024-09-10,91729.34,Erichaven,No
+PID1314,Douglas Vazquez,75,Other,Oncology,Healthy Checkup,Mrs. Mary Ware,2025-06-10,2025-07-07,104537.39,Nicholstown,Yes
+PID1315,Heather Holt,70,Male,Cardiology,Asthma,Michael Townsend,2024-10-30,2025-03-11,105299.41,Burnsburgh,Yes
+PID1316,Rhonda Pope,8,Other,Cardiology,Healthy Checkup,Kimberly Shaw,2024-10-22,2025-02-16,87299.38,South Caseyberg,No
+PID1317,Laura Ramos,41,Male,Oncology,Hypertension,Krista Walker,2024-05-01,2025-05-23,137669.25,East Katiemouth,No
+PID1318,April Blair,8,Other,Neurology,Healthy Checkup,Adam Olson,2023-10-18,2025-02-08,27624.1,Garrettside,No
+PID1319,Michael Hurley,7,Other,Orthopedics,Healthy Checkup,Jesse Turner,2024-01-26,2024-12-20,199231.64,Hickmanhaven,No
+PID1320,Jack Lopez,75,Male,Neurology,Asthma,Paula Phillips,2024-03-29,2025-05-10,98545.56,New Laurieshire,No
+PID1321,Monica Huffman,62,Female,Neurology,Hypertension,Kimberly Garcia,2025-08-21,2025-01-20,150273.0,Taylorborough,Yes
+PID1322,Bruce Hamilton,65,Female,Orthopedics,COVID-19,Bradley Parker,2024-09-25,2025-02-11,33811.82,East Marymouth,No
+PID1323,Bryan Flynn,68,Male,General Medicine,Diabetes,Raymond Peterson,2024-11-21,2025-02-24,181471.95,Cummingsshire,Yes
+PID1324,Jennifer Davies,21,Other,Neurology,Hypertension,Troy Garcia,2025-08-27,2025-07-06,162589.66,Marquezside,Yes
+PID1325,John Cardenas,8,Female,Orthopedics,Diabetes,April Mccormick,2024-07-29,2025-01-10,4805.82,Smithtown,Yes
+PID1326,Danielle Jordan,66,Other,Oncology,Asthma,Steve Huff,2023-09-30,2025-03-13,45639.95,New Nicholas,No
+PID1327,Mason Garza,11,Male,Orthopedics,Hypertension,Kirsten Gibson,2024-04-30,2024-11-08,196991.03,North Felicia,No
+PID1328,Jillian Soto,24,Male,Cardiology,Cancer,David Hall,2023-11-16,2025-03-07,43026.86,Kathrynfurt,No
+PID1329,Kathleen Simpson,9,Female,Orthopedics,Flu,Janice Rodriguez,2025-05-19,2025-08-20,5360.74,Port Robert,Yes
+PID1330,Tricia Hall,77,Female,Neurology,Cancer,Raymond Lawson,2025-08-24,2025-06-28,101422.08,Ericstad,No
+PID1331,Vincent Hopkins,9,Other,General Medicine,Cancer,Brittney Cruz,2025-04-02,2025-08-18,25509.23,West Lindsay,No
+PID1332,Tanya Palmer,87,Female,Oncology,Asthma,Jason Harper,2025-03-31,2025-01-10,142510.91,North Nathanville,No
+PID1333,Diane Keller,31,Male,Orthopedics,Arthritis,Rebecca Colon,2025-04-01,2024-12-21,158633.3,Lake Rhondaborough,Yes
+PID1334,Melissa Benitez,52,Male,Neurology,Healthy Checkup,Julie Levine,2024-10-06,2025-02-06,75663.29,South Jeremy,No
+PID1335,Kenneth Faulkner,16,Male,General Medicine,Flu,David Johnson,2025-08-07,2025-08-18,128423.9,West Lisaport,No
+PID1336,Victoria Bell,73,Other,Orthopedics,Arthritis,Amy Hayes,2023-12-24,2025-02-16,154478.68,Anthonyborough,Yes
+PID1337,Tabitha Davis,32,Female,Oncology,Cancer,Joseph Padilla,2024-10-04,2025-08-11,125003.82,Dwaynefurt,Yes
+PID1338,Adam Navarro,75,Other,Oncology,Cancer,Michele Franklin,2023-09-06,2024-12-11,119190.89,Wigginsmouth,No
+PID1339,Catherine Dickson,77,Other,Cardiology,Arthritis,Dr. Yvette Sellers,2024-11-24,2025-06-29,10544.11,South Peter,Yes
+PID1340,Kimberly Lopez,6,Female,Oncology,Arthritis,Ryan Simpson,2024-02-26,2025-01-10,22514.58,East Christina,No
+PID1341,Joel Love,80,Male,General Medicine,Diabetes,David Moreno,2024-06-23,2025-07-18,167387.88,Port Michelleborough,No
+PID1342,Joe Black,11,Female,Neurology,Flu,Ruth Woods,2023-10-25,2025-01-20,10598.78,Murphytown,No
+PID1343,Matthew Gonzalez,54,Female,Oncology,Healthy Checkup,Rebecca Robertson,2025-02-03,2024-12-31,24042.18,Youngchester,Yes
+PID1344,Raymond Young,85,Female,Oncology,Arthritis,Mary Jones,2025-03-26,2025-02-07,89418.54,South Leon,Yes
+PID1345,Joseph Smith,75,Other,Neurology,Arthritis,Summer Martin,2024-06-16,2025-08-10,25595.42,North Michelle,No
+PID1346,John Sparks,73,Female,Neurology,Diabetes,Brett Gilbert,2023-09-10,2025-08-20,51294.92,North Adrian,No
+PID1347,Jennifer Johnson,67,Male,General Medicine,Flu,Hailey Garcia,2023-08-31,2025-04-23,140671.77,Lyonsmouth,Yes
+PID1348,Amanda Gonzales,41,Female,Oncology,Flu,Diane Meyer,2024-03-13,2025-06-27,41893.49,Houseburgh,No
+PID1349,James Stafford,34,Male,General Medicine,COVID-19,Lauren Bennett,2025-08-03,2025-03-18,137462.27,Brooksberg,Yes
+PID1350,Amanda Mclaughlin,27,Male,Oncology,Hypertension,Amanda Mayo,2025-03-29,2025-07-30,2851.61,Waltersfort,No
+PID1351,Brian Peters,86,Male,Orthopedics,Hypertension,Martin Russo,2025-08-16,2025-08-02,84753.42,Ryanport,Yes
+PID1352,Adam Cole,41,Other,Oncology,Cancer,Luke Tucker,2023-11-21,2025-06-25,21094.99,South Ronnie,No
+PID1353,Matthew Horton,31,Other,Cardiology,Asthma,Cheryl Duarte,2024-03-13,2025-01-19,104541.54,Coreyborough,No
+PID1354,Eric Powers,34,Other,Cardiology,Asthma,Michael Contreras,2023-10-02,2024-09-14,124936.76,South Wayne,No
+PID1355,Sara Mayer,51,Female,Cardiology,Flu,Christopher Woodard,2024-02-01,2025-01-05,140444.54,North Erika,No
+PID1356,Alexandra Fry,17,Other,Cardiology,Healthy Checkup,Randy Baker,2023-11-25,2025-08-07,84346.32,Cliffordbury,Yes
+PID1357,Linda Hernandez,86,Female,General Medicine,Hypertension,Elizabeth Hayes,2024-10-02,2024-12-19,179825.76,North Theresabury,Yes
+PID1358,Amy Jenkins,83,Male,Oncology,COVID-19,Cory Gomez,2024-03-17,2025-02-13,102805.37,Lake Mollyville,Yes
+PID1359,Amanda Garza,39,Female,Orthopedics,Healthy Checkup,Russell West,2025-07-28,2025-02-09,123921.89,West Lisastad,Yes
+PID1360,Tabitha Munoz,59,Male,General Medicine,Asthma,Megan Wheeler,2024-04-24,2025-01-22,57258.65,Petersfurt,No
+PID1361,Alexander Baker,41,Female,Neurology,Arthritis,Paul Guerrero,2024-08-15,2025-01-04,157167.25,New Taylor,Yes
+PID1362,Mary Dougherty,10,Other,Oncology,Arthritis,Luis Terry,2024-12-11,2024-11-03,100050.07,Ryanport,No
+PID1363,Thomas Stewart,2,Male,Pediatrics,Hypertension,Haley Rice,2025-07-28,2025-03-23,122191.36,Mejiatown,No
+PID1364,Austin Jackson,59,Female,Oncology,Asthma,Janet Johnson,2025-06-03,2024-12-20,155813.82,Warnerburgh,No
+PID1365,Angel Lewis,80,Female,General Medicine,Asthma,Sherri Weber,2024-06-08,2025-03-14,166468.27,East Gregory,No
+PID1366,Matthew Phillips,73,Other,Cardiology,Healthy Checkup,Lisa Moore,2024-02-25,2024-12-21,194650.82,Summersbury,Yes
+PID1367,Larry Carter,13,Other,Pediatrics,Cancer,Shirley Blair,2024-09-11,2025-03-22,72226.45,Lake Ryan,No
+PID1368,Anne Rich,10,Other,General Medicine,COVID-19,Katherine Miller,2023-09-09,2024-11-12,82541.49,Harrisborough,Yes
+PID1369,Tanya Good,69,Female,Oncology,Hypertension,Amy Mitchell,2025-04-02,2024-11-27,32914.35,North Brandi,Yes
+PID1370,Michael Clark,28,Other,Orthopedics,Cancer,Rose Sullivan,2025-04-09,2024-09-23,110079.61,Anneburgh,Yes
+PID1371,Paul Harper,65,Female,General Medicine,Asthma,Thomas Smith,2025-02-01,2025-04-22,182160.97,Garciachester,Yes
+PID1372,Susan Rivera,34,Other,Orthopedics,Hypertension,Patricia Carter,2025-05-01,2025-04-10,137952.58,New Jackberg,Yes
+PID1373,Samantha Fields,17,Female,Pediatrics,Flu,Timothy Martin,2025-08-15,2025-07-04,96652.12,Lynnhaven,Yes
+PID1374,Sarah Lin,45,Male,Neurology,COVID-19,Dr. Veronica Reed MD,2024-10-23,2024-09-15,47666.55,East Davidborough,No
+PID1375,Ryan Ayala,9,Other,General Medicine,Hypertension,Ernest Burns,2023-12-27,2025-08-24,3537.13,Bennettburgh,No
+PID1376,Joseph Lewis,32,Male,Pediatrics,Cancer,Diane Smith,2024-09-02,2025-01-06,18711.57,New Olivia,Yes
+PID1377,Christopher Taylor,48,Female,Orthopedics,Asthma,Marissa Landry,2025-04-13,2025-07-30,22975.75,West James,No
+PID1378,Miranda Flores,37,Male,Pediatrics,Cancer,Sean Jacobs,2024-12-14,2025-06-25,115256.4,New John,Yes
+PID1379,Courtney Nguyen MD,21,Other,Cardiology,Arthritis,Edgar Santiago,2025-06-12,2024-11-10,99326.7,Mccormickberg,Yes
+PID1380,Nicole Gonzalez,57,Other,General Medicine,Arthritis,Aaron Jackson,2024-06-01,2024-10-29,189939.76,Lake Angelaburgh,Yes
+PID1381,Laura Green,70,Female,Cardiology,Cancer,Brittney Patterson,2024-09-23,2024-12-03,156125.72,Mccallville,Yes
+PID1382,William Moreno,39,Other,Neurology,Arthritis,David Odonnell,2025-05-01,2025-07-23,15934.59,East Valerieburgh,Yes
+PID1383,Brooke Harrison,79,Male,Pediatrics,Arthritis,Paul Walker,2025-07-06,2024-11-04,144991.67,Salasland,No
+PID1384,Debra Velez,84,Other,Pediatrics,Cancer,Amy Jones,2024-10-30,2024-10-12,181051.1,Kingbury,Yes
+PID1385,Timothy Weiss,68,Male,Pediatrics,Healthy Checkup,Courtney Rivera,2023-11-14,2024-11-05,129223.02,Brianfort,No
+PID1386,George Martinez,2,Other,Pediatrics,Cancer,Ryan Fields,2023-11-13,2025-05-29,91893.5,Heathershire,No
+PID1387,Carl Bell,86,Female,Neurology,Cancer,Lauren Joseph,2023-12-21,2025-03-03,195480.9,North Greg,No
+PID1388,Tara Martin,71,Other,Orthopedics,Healthy Checkup,Ronald Baker,2025-07-16,2024-12-31,53560.88,Brookshaven,No
+PID1389,Christopher Chavez,39,Female,Oncology,COVID-19,Michelle Maxwell,2025-04-26,2024-12-15,10965.96,Carolynborough,No
+PID1390,Johnathan Jordan,85,Other,Neurology,Cancer,Anna Price,2025-05-02,2024-09-30,162822.5,West Lynn,No
+PID1391,Justin Spears,14,Female,Orthopedics,Cancer,David Whitaker,2025-05-08,2025-02-11,174953.95,East Christopherbury,Yes
+PID1392,Joshua Oneal,18,Male,General Medicine,Asthma,Beth Vega,2024-03-03,2025-07-17,170597.49,East Andrew,No
+PID1393,Vanessa Guzman,34,Male,Orthopedics,Healthy Checkup,Steven Griffin,2025-01-22,2024-12-24,72682.72,Gilbertton,Yes
+PID1394,Bonnie Henson,15,Male,General Medicine,Diabetes,Angela Dawson,2024-04-12,2024-11-23,135676.54,North James,Yes
+PID1395,Rose Wong,14,Male,Orthopedics,Asthma,Sara Jones,2024-06-09,2025-02-10,85773.05,Dennischester,Yes
+PID1396,Alison Goodman,71,Female,Pediatrics,Diabetes,Anthony Washington,2024-03-19,2025-06-19,24064.31,Codybury,No
+PID1397,Lisa Kaiser,20,Female,Neurology,Healthy Checkup,Andre Norman,2024-10-27,2025-02-12,170397.93,Dwayneberg,No
+PID1398,Mark Mendez,35,Male,Orthopedics,Cancer,Patricia Spears,2024-06-27,2024-10-28,178168.11,Jacobberg,Yes
+PID1399,Brandon Spencer,37,Male,Oncology,Flu,Catherine Mcintyre,2024-11-20,2025-07-11,2924.79,West Ashley,No
+PID1400,Seth Johnson,78,Male,Oncology,Arthritis,Jeffrey Jennings,2024-04-22,2024-10-21,28540.49,Virginiastad,Yes
+PID1401,Michael Lawson,27,Other,Cardiology,Healthy Checkup,Tammy Dean,2024-09-22,2025-02-21,129792.53,New Anthonyland,Yes
+PID1402,Mary Martin,44,Male,Orthopedics,Arthritis,Stephanie Lee,2025-01-11,2025-06-02,66403.5,Sanchezburgh,No
+PID1403,Jordan Barnes,27,Female,Neurology,Healthy Checkup,Robert Smith,2025-02-06,2024-09-12,179011.0,South Mackenziehaven,No
+PID1404,Kenneth Vazquez,88,Female,Pediatrics,Arthritis,Gregory Vaughan,2025-05-25,2025-07-19,191062.74,Rodriguezmouth,Yes
+PID1405,David Gordon,82,Female,Cardiology,Healthy Checkup,Victoria Hanna,2024-01-15,2025-08-27,54393.57,South Melindaville,Yes
+PID1406,Robert Cameron,34,Other,Orthopedics,Healthy Checkup,Jennifer Murray,2023-09-24,2025-05-20,146880.52,Higginsstad,Yes
+PID1407,Mariah Vega,65,Other,Pediatrics,Cancer,Anthony Nash,2024-08-17,2025-05-03,75151.81,Danielville,No
+PID1408,Andre Alexander,63,Other,Neurology,Hypertension,Tricia Robinson,2023-12-24,2025-05-21,69201.82,Carterhaven,No
+PID1409,Brandon Liu,33,Other,Neurology,Diabetes,Ricardo Espinoza,2025-07-07,2025-05-10,23652.57,Gordonbury,Yes
+PID1410,Jacob Pope,7,Female,Cardiology,Flu,Gregory Davis,2023-12-21,2025-05-29,80649.79,Rachelview,Yes
+PID1411,Alexis Willis,12,Other,Cardiology,COVID-19,Daniel Strong,2023-10-10,2025-07-27,91851.2,Paulmouth,Yes
+PID1412,Michael Hoffman,82,Other,Orthopedics,Diabetes,Christopher Cox,2025-07-08,2025-03-23,167305.96,Dawnmouth,No
+PID1413,Jackie Wilson,55,Other,Pediatrics,COVID-19,Stephanie Small,2024-03-25,2025-08-22,138290.58,North Monica,Yes
+PID1414,Charles Mccormick Jr.,36,Male,Oncology,Flu,Maria Marquez,2023-10-02,2024-11-27,96170.76,North Shannon,Yes
+PID1415,David Bryant,6,Female,Pediatrics,COVID-19,Chris Bailey,2024-08-20,2025-03-05,84926.22,East Kathleen,No
+PID1416,Regina Marshall,1,Other,Neurology,Cancer,Jonathan Torres,2023-10-01,2025-06-06,177338.65,Port Aliciaside,No
+PID1417,Jennifer Spence,43,Male,Neurology,Healthy Checkup,Dillon Pham,2024-12-14,2025-06-11,34188.97,Mooreview,No
+PID1418,George Martinez,17,Female,Orthopedics,Healthy Checkup,Emily Brown,2025-02-06,2024-12-20,27369.8,Andersonchester,No
+PID1419,Sharon Wright,82,Other,Oncology,Hypertension,Danny Lopez,2024-05-31,2025-05-12,145555.81,West Maryshire,Yes
+PID1420,Kevin Hess,34,Female,General Medicine,Hypertension,Maria Parsons,2025-08-07,2024-10-17,196332.26,North Michael,Yes
+PID1421,Dominic Murray,21,Female,Orthopedics,COVID-19,John Brandt,2024-08-10,2025-03-04,169025.62,West Gregoryside,Yes
+PID1422,Adam Robinson,57,Male,Neurology,Asthma,Heather Howell,2024-04-09,2025-04-15,21638.91,Morganstad,No
+PID1423,Gregory Elliott,71,Other,Neurology,Diabetes,Angela Smith,2025-07-20,2025-06-10,182334.13,Jimenezburgh,No
+PID1424,Patricia Mitchell,55,Female,Pediatrics,Healthy Checkup,Alex Jensen,2024-08-24,2025-03-06,97052.3,Port Teresa,No
+PID1425,Carmen Stone,72,Male,Oncology,Flu,Mark Brooks,2024-04-07,2024-10-29,114219.74,Port Jeffreytown,Yes
+PID1426,Gregory Fitzpatrick,2,Female,Pediatrics,Arthritis,Antonio Giles,2023-11-14,2024-10-03,88194.4,Brownmouth,No
+PID1427,Shaun Sparks,15,Female,Pediatrics,Hypertension,Parker Jackson,2024-05-06,2025-01-05,122653.31,Port Carlosmouth,Yes
+PID1428,Ronald Thomas,10,Male,Orthopedics,Flu,John Flowers,2023-11-29,2025-06-12,156053.69,North Amyfurt,Yes
+PID1429,Robin Steele,89,Female,Pediatrics,COVID-19,Rebecca Gordon,2023-10-18,2024-09-04,122660.33,Nicholston,Yes
+PID1430,Sharon Jordan,20,Male,Cardiology,Diabetes,Desiree Weber,2024-09-19,2025-06-10,172652.58,Murrayhaven,Yes
+PID1431,Brian James,70,Other,Cardiology,Healthy Checkup,Scott Rich,2025-01-01,2024-12-10,176110.1,Cannonstad,No
+PID1432,Kimberly Ford,5,Female,Pediatrics,COVID-19,William Ferguson,2024-11-19,2025-03-09,145728.45,Garnerton,No
+PID1433,Jeffrey Wood,48,Other,Oncology,Asthma,Christine Ramsey,2025-07-10,2024-12-15,178460.8,New Rebecca,Yes
+PID1434,Kellie Nelson,75,Other,Pediatrics,Hypertension,Jessica Garcia,2024-05-22,2025-03-29,97132.85,West Scottfort,Yes
+PID1435,Ronald Perez,71,Female,Neurology,Healthy Checkup,Erin Garcia,2024-02-28,2025-05-15,98136.43,North Ivanland,No
+PID1436,Kevin Valdez,19,Male,Neurology,Hypertension,Melissa Chapman,2025-05-29,2025-07-31,177631.19,Thompsonchester,Yes
+PID1437,Tracy Guzman,56,Female,Oncology,Flu,Amanda Huerta,2025-06-20,2025-02-20,88696.89,West Benjamin,No
+PID1438,Eric Edwards,17,Female,Orthopedics,Flu,Monique Lee,2024-01-12,2025-08-10,13603.87,Pattersonhaven,Yes
+PID1439,Lindsay Wallace,6,Male,Cardiology,Asthma,Elizabeth Jones,2024-10-08,2025-05-15,131339.74,Port Christopherton,Yes
+PID1440,Dominic Hartman,40,Male,Cardiology,Arthritis,Kristin Perry,2023-09-27,2024-12-18,3459.68,Port Tiffany,Yes
+PID1441,Mark Duran,47,Female,Orthopedics,Cancer,Jeremy Gordon,2023-12-21,2025-08-01,173798.12,Sherritown,No
+PID1442,James Mercer,6,Male,Pediatrics,Cancer,Maria Harris,2025-06-15,2025-08-03,105438.76,Port Heather,Yes
+PID1443,Stephanie Price,46,Other,Oncology,Flu,Heather Vasquez,2023-12-22,2024-12-16,148981.14,Watkinsland,No
+PID1444,Tyler Braun,27,Male,General Medicine,Flu,Christina Rodriguez,2024-01-09,2025-05-10,145030.94,Lindseymouth,Yes
+PID1445,William Blankenship,88,Other,General Medicine,Diabetes,Anna Schmidt,2024-08-02,2025-08-23,45573.0,West Brittany,Yes
+PID1446,David Robinson,32,Other,Pediatrics,Asthma,Scott Moon,2025-05-19,2025-08-12,191196.52,Lake Mark,Yes
+PID1447,Holly Luna,86,Other,Orthopedics,COVID-19,Brian Jackson,2024-08-27,2025-08-22,174755.57,South Christopher,No
+PID1448,Christopher Martin,14,Male,Oncology,Cancer,Monica Perry,2024-11-01,2024-08-30,104300.84,South Kimberlyburgh,Yes
+PID1449,Patricia Estrada,46,Male,Cardiology,Asthma,Ronald Terry,2025-03-26,2025-05-04,137960.09,New Steven,No
+PID1450,Seth Lane,72,Female,Cardiology,COVID-19,Shannon Evans,2023-12-22,2025-01-16,124029.56,Nortonfort,Yes
+PID1451,Susan Duarte,53,Male,Pediatrics,COVID-19,Julia Burton,2025-02-08,2025-01-15,87136.73,West Brenda,Yes
+PID1452,Michael Clark,80,Male,Neurology,COVID-19,Amber Gonzalez,2025-08-20,2024-10-20,145603.74,Gregorychester,No
+PID1453,Andrew Stevens,20,Other,Orthopedics,Hypertension,Tonya Jones,2023-11-06,2024-09-09,96904.01,Roachmouth,Yes
+PID1454,Steven Rodriguez,31,Male,General Medicine,Cancer,Willie Maxwell,2024-01-11,2024-10-18,133078.42,West Tonyaton,Yes
+PID1455,Emily Hayes,21,Male,Orthopedics,Arthritis,William Hunt,2024-06-27,2025-06-08,128639.49,West Karenfurt,Yes
+PID1456,Steven Moran,23,Other,Pediatrics,Diabetes,Adam Powell,2024-03-17,2025-03-10,30582.24,Bishopbury,No
+PID1457,Travis Little,53,Male,Orthopedics,COVID-19,Brian Sullivan,2025-03-02,2025-07-04,165461.13,Port Alexis,Yes
+PID1458,Joanna Franklin,4,Other,Cardiology,Cancer,Deanna Moreno,2024-03-18,2025-03-28,178520.31,East Steve,No
+PID1459,Nicole Wu,23,Male,Pediatrics,Cancer,Amy Ward,2025-05-09,2025-06-08,122969.89,Smithside,No
+PID1460,Angela Leach,43,Male,Cardiology,Flu,Debbie Pierce,2025-07-31,2024-12-16,3317.33,North Mathew,No
+PID1461,Shannon Harris,53,Female,Oncology,Cancer,Jim Rodriguez,2025-02-21,2025-06-06,186939.91,South Sarah,Yes
+PID1462,Christina Bowman,86,Male,Oncology,Asthma,Becky Barnes,2025-04-08,2025-07-02,101607.95,Kimberlyville,Yes
+PID1463,Brittany Porter,32,Other,Neurology,Flu,Joshua Paul,2024-12-30,2025-04-03,94388.5,Williamshaven,No
+PID1464,Alexander Cervantes,35,Male,Orthopedics,Arthritis,Eugene Shepard,2023-10-28,2024-09-28,99671.15,Hallport,No
+PID1465,Meghan Barron MD,21,Female,Oncology,Healthy Checkup,Michael Ross,2025-01-07,2025-07-20,33915.37,Franklinmouth,Yes
+PID1466,Jerry Braun,90,Male,Orthopedics,Cancer,Nancy Jones,2023-11-05,2025-01-11,150534.57,East Anna,No
+PID1467,Fernando Barajas,14,Male,Cardiology,COVID-19,Courtney Mayer,2024-09-06,2025-03-10,64806.13,East Jonathan,Yes
+PID1468,Jennifer Ibarra,49,Other,Pediatrics,Arthritis,Lisa Burgess,2024-09-12,2025-05-27,66848.07,Port Sarah,No
+PID1469,Jennifer Roman,5,Female,Oncology,Arthritis,Joseph Simpson,2024-08-04,2025-02-15,56353.27,Port Carol,No
+PID1470,Mr. Victor Erickson IV,61,Male,Pediatrics,Healthy Checkup,Diane Watson,2025-03-03,2024-10-10,101878.94,North Stephaniestad,No
+PID1471,Joseph Ross,29,Male,Oncology,Hypertension,Dana Rodgers,2024-11-11,2025-06-27,110548.62,Port Laurenfurt,No
+PID1472,Felicia Carter,26,Other,Orthopedics,Hypertension,Thomas Parker,2024-03-27,2025-06-23,76348.88,Tinaview,Yes
+PID1473,Kevin Roberson,59,Male,Oncology,Arthritis,Kayla Vasquez,2024-01-30,2025-04-14,163603.56,East Kelly,Yes
+PID1474,Donna Cunningham,45,Male,General Medicine,COVID-19,Mariah Salas,2023-11-04,2024-09-02,16687.29,North Kennethhaven,No
+PID1475,Michael Torres,40,Male,Oncology,Asthma,Kristin Hunter,2023-12-09,2025-04-09,89393.59,Thomasview,No
+PID1476,Jennifer Fitzgerald,30,Female,Cardiology,Healthy Checkup,Nathan Brooks,2024-09-30,2025-03-22,115033.95,Donovanfurt,No
+PID1477,Christopher Lindsey DDS,29,Male,Neurology,Healthy Checkup,Ian Rodriguez,2024-08-31,2024-10-21,18515.95,Alexandermouth,No
+PID1478,Amber Washington,4,Other,Cardiology,Asthma,David Phillips,2024-05-29,2025-02-05,100192.77,Lake Meagan,Yes
+PID1479,Carol Barnett,85,Female,Pediatrics,Diabetes,Brandi Patel,2025-01-02,2025-08-29,63896.24,Anthonyport,Yes
+PID1480,Stacy Green,25,Male,Orthopedics,Hypertension,Karen Wagner,2024-07-26,2025-01-11,196153.48,Aprilville,Yes
+PID1481,Jessica Christian,52,Male,Orthopedics,Healthy Checkup,Daniel Davis,2023-12-09,2024-09-14,149302.55,Carolynhaven,No
+PID1482,Jordan Lee,43,Female,Oncology,Asthma,Melissa Fernandez,2025-06-21,2025-07-22,4536.06,Port Markland,No
+PID1483,Michael Dixon,36,Male,Orthopedics,Hypertension,Miss Maria Wall,2024-09-25,2024-09-27,81284.49,Garciaburgh,No
+PID1484,Kevin Oliver,9,Male,Neurology,Arthritis,Justin Richards,2025-06-05,2025-02-11,8130.55,Dawsonberg,No
+PID1485,Stephanie Dunn,36,Other,Neurology,Flu,Holly York,2024-03-13,2025-01-20,110270.66,Shelbyside,No
+PID1486,Charles Baker,45,Female,Oncology,Arthritis,Christopher Robinson,2025-05-27,2025-03-22,165355.84,New Devin,Yes
+PID1487,Gregory Fernandez,83,Other,Oncology,Flu,Joseph Mclaughlin,2024-07-02,2025-01-15,158564.87,Laurenborough,No
+PID1488,Mrs. Julie Davis,66,Male,Pediatrics,Healthy Checkup,Joe Adams MD,2025-01-29,2024-12-28,192671.08,East Ianville,Yes
+PID1489,Wendy Kennedy,52,Other,Oncology,COVID-19,William Preston,2024-08-27,2025-07-15,127870.09,New Eileenton,Yes
+PID1490,Luke Potts,87,Male,Cardiology,Asthma,Joshua Cortez,2024-04-04,2025-06-18,178132.07,Joshuabury,No
+PID1491,Carrie Carr,69,Female,Cardiology,COVID-19,Michael Mullins,2025-08-16,2025-01-07,112904.18,Lindseystad,Yes
+PID1492,Holly Hughes,43,Female,Cardiology,Asthma,Sarah Estrada,2023-10-23,2025-03-17,131264.6,Kevinberg,No
+PID1493,Kathryn Dixon,4,Female,Neurology,Cancer,Danielle Hawkins,2023-12-20,2025-02-09,91785.38,Hancockfurt,Yes
+PID1494,Brent Zhang,15,Other,General Medicine,Healthy Checkup,Sergio White,2024-12-01,2025-02-23,68829.99,North Michael,No
+PID1495,Jeffery Grant,34,Other,Orthopedics,Asthma,Paula Mills,2024-10-09,2025-04-07,165236.89,North Adriana,Yes
+PID1496,Travis Bauer,23,Male,Pediatrics,Diabetes,Jasmine Lewis,2024-07-08,2025-05-15,163501.15,Port Gabrielle,No
+PID1497,William Morrison,75,Female,Oncology,Diabetes,Meghan Mccormick,2024-05-24,2024-10-10,169019.17,Reedhaven,Yes
+PID1498,Michael Bailey,34,Other,Pediatrics,Hypertension,Keith Reid,2025-06-29,2024-11-19,67062.55,Rodriguezshire,No
+PID1499,Jacqueline Conley PhD,5,Male,Neurology,Healthy Checkup,Crystal Sanchez,2023-12-26,2025-01-15,153715.86,Kimmouth,No
+PID1500,James Rosario,14,Other,Oncology,Diabetes,Jessica Powers,2024-09-27,2025-03-27,120390.28,South Micheletown,No
+PID1501,Jennifer Richardson,77,Male,Oncology,Hypertension,Marie Fischer,2023-11-30,2025-01-11,143614.96,Parksview,No
+PID1502,Howard Cox,56,Other,Neurology,Cancer,Erin Mayo,2025-05-23,2024-09-26,73295.61,Amyside,Yes
+PID1503,Erin Ball,45,Other,Orthopedics,Healthy Checkup,Samantha Nielsen,2025-01-20,2025-04-09,91053.96,South Nicole,Yes
+PID1504,Maria Harris,41,Other,Oncology,Healthy Checkup,Jose Taylor,2024-04-16,2025-02-26,20389.97,Marcusbury,Yes
+PID1505,Megan Foster,56,Female,Orthopedics,Diabetes,Marie Alexander,2024-01-10,2025-06-21,132123.14,Millermouth,Yes
+PID1506,Patricia Carey,78,Female,Neurology,Arthritis,Steven Anderson,2024-11-18,2025-02-02,1437.19,West Rubenborough,Yes
+PID1507,Curtis Allen,66,Other,Pediatrics,Flu,Joseph Williams,2024-09-21,2025-01-15,71672.66,Snowville,Yes
+PID1508,Heidi Sweeney,15,Male,Oncology,Cancer,Gloria Andrade,2025-06-16,2024-10-17,127098.57,Karenborough,Yes
+PID1509,Andrew Smith,50,Male,General Medicine,COVID-19,Alex Carter,2025-01-26,2025-01-27,160182.63,South Lauren,Yes
+PID1510,Gabriella Andersen,74,Female,Orthopedics,Cancer,Katie Williams,2025-07-21,2025-03-21,109990.43,Erinhaven,Yes
+PID1511,Juan Burnett,25,Female,Oncology,COVID-19,Mr. Michael Meyer,2024-07-20,2025-04-03,75404.18,Port Kimberly,No
+PID1512,Randy Carpenter,33,Female,Orthopedics,Hypertension,Calvin Hayes,2024-02-10,2025-02-16,22158.12,Tabithabury,Yes
+PID1513,Dr. Andre Allison,6,Other,Oncology,Asthma,Victor Dawson,2025-02-07,2025-06-29,179478.55,Blairmouth,Yes
+PID1514,Lawrence Rodriguez,56,Male,Oncology,COVID-19,Scott Berger,2025-05-26,2025-05-02,98992.01,East Thomas,Yes
+PID1515,Claudia Powers,1,Female,Oncology,Hypertension,Spencer Erickson,2024-10-20,2025-03-12,164545.89,Lake Jasonborough,No
+PID1516,Bryan Carroll,67,Other,Pediatrics,Asthma,Jonathan Beasley,2024-07-16,2025-03-06,148759.67,East Stephen,No
+PID1517,Patricia Thompson,69,Female,General Medicine,Cancer,Brittany Brewer,2024-02-23,2025-06-06,82432.94,Port Edwardberg,No
+PID1518,Dana Kelley,88,Male,Oncology,Diabetes,Laura Wyatt,2023-10-21,2024-10-11,51603.57,New Hectorstad,Yes
+PID1519,Yolanda Marsh,86,Male,Orthopedics,Arthritis,David Grant,2024-01-22,2025-01-26,39988.37,Davidhaven,No
+PID1520,Alan Gonzalez,26,Female,Pediatrics,COVID-19,Michael Cooper,2025-02-10,2025-02-25,25028.42,Seanport,Yes
+PID1521,Michael Nelson,47,Other,Cardiology,Flu,Sheila Patton,2025-02-07,2025-05-25,170586.68,Port Annette,Yes
+PID1522,John Smith,56,Male,Orthopedics,Arthritis,Charles Taylor,2024-10-14,2024-10-30,43902.31,Owensstad,Yes
+PID1523,Kristen Rodriguez,9,Male,Orthopedics,Hypertension,Brooke Woods,2025-06-02,2024-12-02,165086.27,West Ericbury,Yes
+PID1524,William Allen,86,Male,General Medicine,Hypertension,Mark Steele,2024-08-20,2025-08-06,38925.17,Lake Johnport,No
+PID1525,James Melendez,43,Female,Cardiology,Diabetes,Jillian Williams,2024-10-06,2025-06-09,68248.78,Mooreland,Yes
+PID1526,James Lee,80,Other,Pediatrics,Flu,Edward Banks,2024-02-14,2025-08-09,151672.72,Nelsonmouth,No
+PID1527,Donna Martin,41,Other,Oncology,Healthy Checkup,Cynthia Randolph,2025-01-19,2025-06-09,10253.57,Stevensonberg,Yes
+PID1528,James Reed,85,Other,Orthopedics,Hypertension,Tara Walsh,2025-08-08,2025-07-08,127014.85,Jeremymouth,No
+PID1529,Sean Jones,16,Other,General Medicine,Cancer,Nicholas Anderson,2024-11-05,2024-11-21,134756.21,Fullerfort,No
+PID1530,Christine Wilkins,39,Other,General Medicine,Flu,Zachary Wilson,2024-04-05,2024-09-15,25520.62,North Jefferystad,No
+PID1531,Thomas Lewis,65,Female,General Medicine,Healthy Checkup,Nicole Taylor,2023-12-13,2025-07-19,178459.12,Mendozamouth,Yes
+PID1532,Stephen Harvey,40,Female,Cardiology,Diabetes,Danielle Fleming,2023-10-13,2024-10-21,92020.19,Robinsonhaven,No
+PID1533,Jeff Hernandez,86,Other,Oncology,Diabetes,Ronald Tucker,2025-06-14,2025-04-27,118273.92,Marcchester,Yes
+PID1534,Jack Snyder,53,Other,Pediatrics,Asthma,Mark Scott,2023-09-08,2025-08-17,101335.32,Carolland,Yes
+PID1535,Jennifer Young,42,Female,Orthopedics,Hypertension,Joshua Gardner MD,2024-12-18,2024-11-18,192807.1,Sylviahaven,No
+PID1536,Joanna Silva,52,Female,General Medicine,Arthritis,Austin Diaz,2025-03-07,2024-10-11,1863.19,Scottberg,Yes
+PID1537,Richard Cohen,90,Other,Oncology,Cancer,John Kim,2025-02-06,2025-08-04,147506.57,South Steven,Yes
+PID1538,Joshua Glass,38,Other,Oncology,Healthy Checkup,Rodney Nunez,2025-02-27,2024-12-10,111092.04,Mayerville,Yes
+PID1539,Danielle Chapman,71,Female,Neurology,Hypertension,Carol Wood MD,2025-07-31,2025-08-23,87129.27,Rachelstad,Yes
+PID1540,Timothy Frank,17,Male,General Medicine,Flu,Veronica Thomas,2024-09-20,2024-11-07,117439.02,Samuelhaven,Yes
+PID1541,Jeffery Williams,25,Other,Cardiology,Arthritis,Carrie Gutierrez,2023-09-28,2024-11-18,184949.8,Lake Karen,No
+PID1542,David Brennan,54,Male,Oncology,Hypertension,Stephen Atkins DDS,2024-12-10,2025-05-24,156435.22,East Jacob,Yes
+PID1543,Tara Baker,86,Other,Pediatrics,Hypertension,Brian Ward,2025-02-21,2025-08-21,182126.12,Dorseymouth,Yes
+PID1544,Alicia Riley,49,Other,Neurology,Hypertension,Ashley Palmer,2025-06-09,2025-03-09,138671.72,Gregoryside,Yes
+PID1545,David Bond,87,Other,Oncology,Asthma,Andrew Bennett,2025-07-30,2025-08-19,35556.4,Lake Travis,Yes
+PID1546,Joshua Navarro,23,Other,General Medicine,Asthma,Jerry Kemp,2024-10-27,2025-03-11,163233.59,New Zacharystad,No
+PID1547,Charles Horn,79,Male,General Medicine,COVID-19,Luis Ruiz,2025-02-07,2024-10-28,21607.24,Davidhaven,Yes
+PID1548,Laura Johnson,73,Female,Oncology,Cancer,Jennifer Paul,2024-05-15,2025-08-29,131846.84,East Matthew,No
+PID1549,Megan Hernandez,39,Female,Pediatrics,Arthritis,Jessica Mcmillan,2025-05-03,2025-03-02,121625.99,South Shawn,No
+PID1550,Matthew Riley,52,Male,Neurology,Cancer,Elaine Munoz,2023-12-05,2024-10-12,65046.91,Maysbury,No
+PID1551,Matthew Miller,71,Female,General Medicine,Cancer,Jeffrey Martinez,2025-05-02,2024-10-13,176396.72,Thomasbury,Yes
+PID1552,Robert Harper,1,Female,Neurology,Hypertension,Hannah Green,2024-10-29,2025-06-21,84314.28,Karenstad,Yes
+PID1553,Eric Schmitt,39,Female,Cardiology,Diabetes,Aaron Johnson,2025-01-31,2025-07-08,122189.75,Barrymouth,Yes
+PID1554,Daniel Wagner,37,Female,Oncology,Cancer,Ronald Morgan,2025-07-15,2025-03-09,138810.59,New Robert,No
+PID1555,Gregory Cervantes,27,Female,General Medicine,Healthy Checkup,Scott Myers,2024-07-08,2025-01-24,50399.52,Port Jordan,No
+PID1556,William Velazquez,56,Other,Cardiology,Asthma,Victor King,2024-03-25,2025-02-26,80176.13,North Patrickville,Yes
+PID1557,Mitchell Cooper,75,Male,Neurology,Flu,Jason Campbell,2024-11-09,2025-04-18,69228.9,Owensport,No
+PID1558,Cindy Marshall,78,Female,Cardiology,Cancer,Ryan Harris,2024-04-27,2025-07-09,59540.53,Port George,No
+PID1559,Steve Young,84,Female,Pediatrics,Arthritis,Justin Miller,2023-09-07,2025-03-31,161154.57,West Michelleside,No
+PID1560,William Garrison,42,Female,Orthopedics,Healthy Checkup,Miss Karen Perez DDS,2025-07-05,2025-07-17,28497.82,Port Melinda,No
+PID1561,Jason Williams,60,Other,Pediatrics,Flu,Teresa Keith,2025-04-24,2025-04-10,120902.37,East Nicholaschester,No
+PID1562,Mary Nichols,57,Female,Neurology,Hypertension,Patricia Ortiz,2024-10-23,2024-10-17,177400.93,Cristianton,No
+PID1563,Daniel Tran,57,Female,Pediatrics,Hypertension,Christine Watson,2024-03-07,2025-06-12,102946.63,Robinsonland,No
+PID1564,Willie Woods,87,Male,General Medicine,Cancer,Colton Burns,2024-10-13,2025-07-08,168771.81,Lake John,No
+PID1565,Deborah Johnson,28,Other,Neurology,Hypertension,Stacey Serrano,2025-08-21,2025-05-27,110013.39,East Barbara,Yes
+PID1566,Kim Walsh,66,Female,Pediatrics,Arthritis,Colin Roberson,2024-08-30,2025-04-29,63468.25,Lake Tom,Yes
+PID1567,James Griffith,61,Male,Oncology,Asthma,Marcus Aguilar,2024-06-20,2025-06-05,147626.91,Johnport,No
+PID1568,Amy White,22,Male,Oncology,Arthritis,Jonathon George,2023-10-29,2024-10-03,111162.73,West Allisonbury,No
+PID1569,Melissa Hanna,85,Male,Pediatrics,Asthma,Danielle Gomez,2024-05-17,2025-01-25,44251.17,North Zachary,No
+PID1570,Kristina Walter,11,Male,General Medicine,Cancer,Alex Carr,2025-05-17,2024-09-19,42732.83,Salinasberg,No
+PID1571,Brian Johnson,37,Female,General Medicine,Flu,Anthony Williamson,2025-07-17,2024-10-04,143162.52,South Bradley,No
+PID1572,Jacob Burgess,66,Male,Cardiology,COVID-19,Samantha Wilson,2024-08-31,2024-11-18,137635.65,East Catherine,No
+PID1573,Lori Horton,85,Other,General Medicine,Hypertension,Tanya Watkins,2025-02-23,2025-07-20,184317.16,Thomasport,Yes
+PID1574,Alejandra Durham,82,Other,Neurology,Flu,Sheila Rogers,2023-12-22,2025-03-30,27401.67,Camposton,Yes
+PID1575,Stacy Daniels,80,Female,Oncology,COVID-19,Laura Gonzalez,2025-05-17,2025-07-25,142368.89,Frankland,No
+PID1576,Mary Matthews,43,Male,Neurology,Diabetes,Jody Thompson,2025-06-26,2024-12-11,195060.72,West Ernest,Yes
+PID1577,Gregory Wiggins,12,Other,Oncology,COVID-19,Angela Vasquez,2025-08-04,2025-07-12,36384.73,Wrightborough,Yes
+PID1578,Susan Williams,31,Male,Orthopedics,Flu,Michael Jackson,2025-06-26,2024-12-09,108955.8,Espinozaburgh,No
+PID1579,William Weeks,87,Other,General Medicine,Flu,Deborah Green,2025-03-14,2025-05-28,127738.61,Johnsonborough,Yes
+PID1580,Keith Richardson,40,Other,Pediatrics,Arthritis,Amanda Hall,2023-12-16,2025-08-09,142360.19,Gardnershire,No
+PID1581,Sydney Anthony,29,Other,Oncology,COVID-19,Matthew Fernandez,2024-04-22,2024-12-02,152394.23,South Jennifer,Yes
+PID1582,Tammy Gordon,26,Female,Pediatrics,Diabetes,Jonathan Harrison,2023-11-13,2024-09-28,112893.76,Gonzaleston,Yes
+PID1583,Stephanie Adams,19,Other,Orthopedics,Flu,Corey Brown,2025-02-22,2025-08-29,116978.45,West Ryanburgh,No
+PID1584,Catherine Chase,4,Male,Neurology,Healthy Checkup,Alan Bullock,2025-07-23,2025-01-03,188592.06,Mendezshire,Yes
+PID1585,David Bell,6,Female,Pediatrics,Arthritis,Linda Perry,2025-04-20,2024-12-31,142314.6,Amandamouth,No
+PID1586,Gerald Booth DDS,32,Female,Oncology,Hypertension,Carol Garcia,2025-02-22,2025-06-16,135174.45,Davidside,Yes
+PID1587,Sarah Nicholson,61,Other,Orthopedics,Flu,Omar Collins,2024-11-14,2025-01-27,178879.33,Meyershaven,Yes
+PID1588,Kurt Valdez,79,Female,Oncology,Healthy Checkup,Laura Bates,2025-04-07,2025-02-15,107246.66,Frazierberg,Yes
+PID1589,Vicki Oliver,10,Other,Orthopedics,Hypertension,Kelly Thomas,2025-05-03,2025-02-10,175617.97,Bryanberg,No
+PID1590,Elizabeth Gonzalez,59,Male,General Medicine,Diabetes,Edward Green,2025-03-18,2025-08-25,85054.89,Sandrafort,No
+PID1591,Courtney Houston,54,Female,General Medicine,Asthma,Maxwell Knight,2024-04-18,2025-04-10,3541.33,East John,Yes
+PID1592,Joshua Green,81,Other,General Medicine,Asthma,Stacy Kelly,2024-02-23,2025-07-04,22187.62,Alexandriaton,Yes
+PID1593,Kyle Hill,74,Female,General Medicine,Cancer,Margaret Bruce,2025-06-26,2025-06-05,76793.19,Port Williamville,No
+PID1594,Mary Hoffman,25,Female,General Medicine,Arthritis,Jeremy Phillips,2023-09-04,2024-12-22,11559.93,Kristinville,No
+PID1595,Chelsea Green,90,Male,Orthopedics,Arthritis,Andrea Moore,2024-11-22,2024-11-23,12264.35,Vanessachester,Yes
+PID1596,Rachel Hodges,50,Other,Oncology,Asthma,Jacqueline Green,2025-01-18,2024-12-08,54128.68,East Andre,Yes
+PID1597,Jamie Dillon,64,Other,Pediatrics,Cancer,Rebecca Rosario,2024-10-25,2024-09-24,157320.91,Lake Stephaniefurt,No
+PID1598,Bobby Mcdonald,52,Male,Neurology,Healthy Checkup,Madison Moore,2024-08-08,2024-10-25,196722.95,Reidfurt,No
+PID1599,William Watson,32,Male,Neurology,Hypertension,Molly Collier,2024-04-15,2025-04-10,136994.68,Lake Samuel,Yes
+PID1600,Terry Morris,19,Other,Orthopedics,Diabetes,David Rosario,2024-03-05,2025-05-10,30139.25,Crawfordview,No
+PID1601,Shirley Johnson,84,Female,Oncology,Hypertension,Catherine Stevens,2024-04-24,2024-12-05,13344.53,East Justinfort,Yes
+PID1602,Tanner Thompson,89,Male,Orthopedics,Diabetes,John Martin,2025-03-27,2025-06-10,157087.12,Lake Kenneth,Yes
+PID1603,Melissa Joseph,1,Male,Neurology,COVID-19,Gina Baker,2025-04-20,2024-10-25,41596.18,New Edward,No
+PID1604,Alexandra Buck,14,Female,Orthopedics,Flu,Summer Weber,2024-02-29,2024-10-14,108693.25,New Robertburgh,No
+PID1605,Christine Cervantes,55,Other,Orthopedics,Diabetes,Jason Barker,2023-10-11,2025-03-26,72377.81,Joannachester,Yes
+PID1606,Linda Cordova,29,Female,General Medicine,Diabetes,Felicia Robinson,2024-04-02,2024-12-16,91066.31,Clarkechester,No
+PID1607,James Coleman,23,Male,Neurology,Arthritis,Ronald Kim,2025-05-27,2025-04-05,123605.66,Port Emilyfort,Yes
+PID1608,Heather Campos,90,Female,General Medicine,COVID-19,Robert Donaldson,2024-12-19,2025-03-21,135429.68,Marshallmouth,No
+PID1609,Michael Carlson,67,Other,General Medicine,Arthritis,Jamie Garcia,2024-11-09,2024-12-16,112815.11,East Barrybury,Yes
+PID1610,Evelyn Smith,60,Male,Pediatrics,Arthritis,Robert Berg,2024-11-04,2025-02-27,45637.17,East Christine,No
+PID1611,Jessica Lopez,7,Female,Orthopedics,Arthritis,Lindsey Arias,2024-03-06,2025-02-25,129776.77,Thorntonland,Yes
+PID1612,Laura Thomas,72,Other,Pediatrics,Hypertension,Douglas Mcclure,2024-08-31,2024-11-02,78388.45,Lake Toddberg,Yes
+PID1613,Gavin Bishop,32,Other,Orthopedics,Cancer,Kelly Mitchell,2024-10-22,2025-01-24,102673.54,East Christopher,No
+PID1614,Bryan Jackson,16,Other,Oncology,COVID-19,Jody Douglas,2025-04-12,2024-12-23,159569.9,Jonesside,No
+PID1615,Wanda Griffith,59,Other,General Medicine,Hypertension,Patrick Thomas,2023-09-23,2024-11-13,139529.57,Karaside,No
+PID1616,Shawn Smith,18,Other,Orthopedics,COVID-19,Michael Luna,2025-07-28,2024-11-04,138894.28,East Ronald,No
+PID1617,James Williams,60,Other,Orthopedics,Hypertension,Holly Adams,2023-09-07,2025-05-22,10349.0,West Scott,Yes
+PID1618,Christopher Burnett,86,Male,Cardiology,Flu,April Burton,2023-09-15,2025-07-30,76934.94,Beanmouth,Yes
+PID1619,Teresa Long,68,Other,Oncology,Cancer,Ellen Harper,2024-03-17,2024-12-05,83896.68,Rothton,Yes
+PID1620,Adam Wagner,72,Other,General Medicine,Asthma,Lisa Johnson,2024-10-12,2025-03-31,157834.19,Darrellstad,No
+PID1621,Shawn Huang,77,Other,Oncology,Arthritis,Victor Harmon,2024-02-23,2025-07-26,137344.6,Lake Marymouth,Yes
+PID1622,Benjamin Simmons,41,Female,Pediatrics,Hypertension,Alicia Hunter,2025-06-13,2024-09-14,193200.81,Stevenfurt,No
+PID1623,Daniel Miller,57,Male,Pediatrics,COVID-19,Glenn Rogers,2023-12-30,2024-10-06,11706.64,Bakerburgh,Yes
+PID1624,James Jones,79,Male,Orthopedics,Arthritis,Dale Lawson,2025-02-03,2024-11-30,148990.32,Matthewmouth,No
+PID1625,Brittany Ford,65,Female,Neurology,Flu,Charles Oliver,2025-05-23,2025-03-30,41414.36,Williamchester,Yes
+PID1626,Justin Lowery,55,Other,Orthopedics,Diabetes,Megan West,2024-02-21,2025-01-16,173901.14,North John,No
+PID1627,Sarah Bradley,71,Female,Cardiology,Flu,Gregory Mcmahon,2025-04-02,2024-12-30,172228.5,North Colinborough,Yes
+PID1628,Madison Pollard,58,Female,Orthopedics,Hypertension,Jeffrey Ortega,2025-02-01,2025-05-14,89169.71,Rodriguezland,Yes
+PID1629,Michael Wiggins,21,Female,General Medicine,Arthritis,Renee Maldonado,2024-03-01,2024-11-15,45884.15,Lake Dana,Yes
+PID1630,Michael Johnson,61,Male,Cardiology,Hypertension,Mr. Robert Gonzalez,2025-07-16,2025-06-07,127123.91,South Kimberlyborough,No
+PID1631,William Franklin,58,Male,Orthopedics,Healthy Checkup,Robert Moore,2025-01-20,2025-08-12,142199.55,Brownfort,No
+PID1632,Brandon James,34,Male,Pediatrics,Diabetes,Nathan Wolfe,2023-11-25,2024-11-09,74180.48,Hallshire,Yes
+PID1633,Marcia Watson,32,Other,General Medicine,COVID-19,Robert Bond,2025-04-09,2025-08-26,118088.68,Danielburgh,Yes
+PID1634,Austin Jones,82,Other,Orthopedics,Cancer,Jodi Barnes,2025-03-23,2025-02-13,147951.56,Brownside,No
+PID1635,Daniel Myers,36,Female,General Medicine,Hypertension,Carl Wood,2024-08-09,2024-09-16,40097.35,West Amy,No
+PID1636,Mary Flynn,67,Male,Pediatrics,Diabetes,Julia Ibarra,2023-09-16,2025-04-16,145257.99,West Jessica,No
+PID1637,Emily Martin,63,Male,Neurology,Cancer,Monique Carter,2025-05-04,2024-09-17,39506.04,Lake Shannonside,Yes
+PID1638,Michael Manning,81,Other,Neurology,Diabetes,Christian Martinez,2025-05-19,2025-06-01,90314.17,Katherinemouth,Yes
+PID1639,Andrew Brown,31,Other,Oncology,Cancer,Antonio Barker,2024-02-19,2025-01-08,196707.21,Haysberg,No
+PID1640,Brian Hodges,36,Male,Orthopedics,Healthy Checkup,Pamela King,2023-11-12,2025-04-08,15819.33,Orrland,Yes
+PID1641,Tina Smith,57,Male,Oncology,Asthma,Eric Evans,2025-04-30,2025-02-08,192532.57,North Ronaldmouth,No
+PID1642,Christopher Gamble,10,Other,General Medicine,COVID-19,Christopher Meyer,2023-09-30,2024-09-20,147280.82,West Dianeside,Yes
+PID1643,Anthony Marshall,37,Other,Orthopedics,Cancer,Kimberly Rivera,2023-11-26,2025-05-01,24751.41,West Anthonystad,No
+PID1644,Nicole Brooks,31,Male,Neurology,Asthma,Maureen Austin,2024-12-24,2025-05-23,9086.21,South Patriciachester,No
+PID1645,Karen Hill,35,Female,Cardiology,Cancer,Rachel Cooper,2023-11-13,2024-11-22,56543.34,West Jessica,Yes
+PID1646,Jason Huber,43,Female,Oncology,COVID-19,Anthony Ramos,2025-03-29,2025-01-21,53583.68,East Shellystad,No
+PID1647,Brianna Ward,41,Female,General Medicine,Hypertension,Kevin Gibson,2024-09-03,2025-08-15,33024.84,Frystad,No
+PID1648,Aaron Miller,70,Female,Oncology,Diabetes,Annette Foster,2025-07-28,2024-12-23,169356.83,Lake Sarastad,Yes
+PID1649,Cheryl Curtis,11,Male,Neurology,Asthma,Justin Short,2024-03-23,2024-09-07,2123.38,West Ashley,Yes
+PID1650,Ryan Carr,18,Female,Neurology,Arthritis,Alexandra Lynn,2023-11-16,2025-04-14,93799.94,Priceland,No
+PID1651,Holly Chen,20,Female,Cardiology,COVID-19,Roberta Oneill,2025-04-23,2024-11-20,187561.4,North Eddie,Yes
+PID1652,Tamara Washington,30,Other,General Medicine,Hypertension,Curtis Moran,2025-07-04,2024-10-29,8948.18,North Dianafort,No
+PID1653,Steven Miller,50,Female,Oncology,COVID-19,Crystal Armstrong,2025-03-08,2025-03-21,185797.02,North Ricky,No
+PID1654,Joann Brown,89,Other,Neurology,Hypertension,Edward Moore,2023-11-12,2024-09-24,119779.19,Piercemouth,Yes
+PID1655,Gerald Singh,20,Other,General Medicine,Healthy Checkup,Brandi Norris,2024-05-15,2025-05-26,154958.53,Mayport,Yes
+PID1656,Shannon Sanchez,28,Male,Neurology,Healthy Checkup,Jennifer Wagner,2023-10-10,2024-09-12,125447.97,Mccarthyfort,Yes
+PID1657,Ryan Robinson,9,Male,Cardiology,Asthma,Andrea Lopez,2025-02-10,2024-10-06,168784.86,West Amandaton,Yes
+PID1658,David White,54,Male,Cardiology,Diabetes,Timothy Medina,2024-06-23,2025-01-20,60929.81,Schneiderborough,No
+PID1659,Eric Dawson,53,Male,Pediatrics,Healthy Checkup,Francis Peck,2025-01-16,2024-12-07,158191.73,East Ericland,No
+PID1660,Dawn Baldwin,43,Other,Orthopedics,Cancer,Adam Gibbs,2024-02-25,2024-09-29,110481.88,Port Kelly,No
+PID1661,Christine Burns,70,Male,General Medicine,Asthma,Steven Adams,2024-07-23,2025-07-04,15503.28,East Oliviaville,Yes
+PID1662,Charles Willis,60,Other,Pediatrics,Cancer,Danielle Bell,2024-05-12,2024-12-23,141828.63,Michellebury,Yes
+PID1663,Casey Lynch,54,Male,Cardiology,COVID-19,Ronald Garcia,2023-09-24,2024-10-22,105553.62,Robinsonview,No
+PID1664,Heather Manning,8,Female,General Medicine,Hypertension,Robin Lawrence,2024-04-06,2025-07-26,191440.56,East Margaretshire,No
+PID1665,Shawn Jones,27,Female,Neurology,Hypertension,Brian Parsons,2024-12-18,2025-06-28,104600.65,Danastad,No
+PID1666,Jon Martin,54,Other,Cardiology,Flu,Lisa Duncan,2023-09-24,2025-06-21,157465.39,Joeberg,No
+PID1667,Megan Hernandez,50,Female,Oncology,Diabetes,Miguel Brown,2024-02-21,2024-12-03,32714.73,Arnoldburgh,Yes
+PID1668,Stephanie Foster,75,Female,Neurology,Diabetes,Gabrielle Thompson,2024-09-14,2025-07-04,109072.95,Port Jamesbury,No
+PID1669,Jodi Martinez,90,Other,Pediatrics,Diabetes,Noah Simpson,2024-02-07,2024-10-15,81280.0,Cameronshire,No
+PID1670,Michael Jones,3,Female,General Medicine,Flu,Alyssa Mercer,2023-11-07,2025-06-27,70531.19,Heathertown,Yes
+PID1671,Renee Miller,74,Female,Pediatrics,Diabetes,Lori Moody,2024-10-06,2024-11-05,176795.95,Morseborough,No
+PID1672,Ryan Gonzalez,49,Female,Pediatrics,Healthy Checkup,William Patel,2025-03-30,2025-05-26,133003.56,Port Jamesmouth,Yes
+PID1673,Dale Wilson,62,Male,General Medicine,Asthma,Alyssa Williams,2024-04-15,2024-09-08,66882.24,Dukeburgh,No
+PID1674,Angela Alvarez,1,Other,Neurology,Arthritis,Dwayne Tucker,2025-03-20,2024-10-05,59421.3,Bridgesfurt,No
+PID1675,Sonya Ortiz,46,Male,Orthopedics,Cancer,Kaitlin Williams,2024-06-16,2025-06-23,190111.35,South Lynn,Yes
+PID1676,Scott Larson PhD,39,Female,Orthopedics,Cancer,Gabriel Bradley,2024-08-04,2025-08-18,124037.84,Port Juanmouth,No
+PID1677,Mrs. Courtney Ayala,50,Female,Orthopedics,Diabetes,Nichole Young,2025-01-15,2025-06-14,95496.58,Rebeccaport,Yes
+PID1678,Shawn Johnson,54,Male,General Medicine,Arthritis,Christopher Mcmillan,2024-11-16,2025-05-05,112705.6,Shelbyberg,Yes
+PID1679,Michael Cowan,69,Female,Cardiology,Flu,Jonathan Copeland,2024-11-17,2024-11-26,150674.62,Mcdowelltown,Yes
+PID1680,Sara Williams,70,Other,Cardiology,Asthma,Scott Thomas,2024-10-31,2025-08-28,130210.72,Morrishaven,No
+PID1681,Carlos Harvey,78,Other,General Medicine,Flu,Amanda Burns,2024-03-03,2024-10-11,23829.67,Yolandabury,Yes
+PID1682,Stephen Johnson,29,Other,Oncology,Arthritis,Alicia Wood,2024-06-06,2024-09-23,69855.45,West Stacey,Yes
+PID1683,Amy Richards,63,Female,Neurology,Asthma,Jessica Franklin,2025-02-21,2025-07-07,48829.23,Travisville,Yes
+PID1684,Eddie Johnson,29,Other,Oncology,COVID-19,Jennifer Forbes,2024-02-28,2025-04-03,128810.61,Davismouth,Yes
+PID1685,Daniel Wilson,35,Other,General Medicine,Hypertension,Dawn Deleon,2024-04-12,2025-02-26,183802.85,Riveraton,Yes
+PID1686,James Short,56,Female,General Medicine,Asthma,Brandon Cobb,2024-05-04,2024-10-29,49521.61,Phillipston,Yes
+PID1687,William Shaw,63,Male,Cardiology,Hypertension,Dr. Michelle Thompson MD,2025-01-07,2024-11-02,8935.57,Lake Jonathanburgh,No
+PID1688,John Campbell,4,Male,Neurology,Diabetes,Sean Lee,2024-10-23,2025-06-05,177246.37,Port Zachary,Yes
+PID1689,Christopher Williams,50,Female,Pediatrics,Cancer,Veronica Ryan,2024-01-31,2025-01-10,76893.15,Mclaughlinburgh,No
+PID1690,Melissa Thompson,44,Other,Neurology,Flu,Devin Rodriguez,2024-01-18,2025-08-15,159445.11,West Chelseastad,Yes
+PID1691,Aaron Sparks,86,Male,Cardiology,Diabetes,Timothy Williams,2023-10-04,2025-02-25,23561.43,North Christopher,No
+PID1692,Tommy Miller,87,Male,Pediatrics,Arthritis,Richard Mcintosh,2024-05-10,2025-03-13,52061.52,Markland,No
+PID1693,Christopher Bradley,52,Male,Pediatrics,Hypertension,Roberto Higgins,2025-08-25,2025-06-06,145071.15,Brettview,No
+PID1694,Andrew Kelly,22,Female,Neurology,Healthy Checkup,Taylor Espinoza,2024-03-11,2024-12-02,5916.44,Rodriguezmouth,Yes
+PID1695,Gerald Santos,60,Male,General Medicine,COVID-19,Cheryl Young,2024-06-08,2024-12-17,103856.7,Priceland,No
+PID1696,Eric Lawson,17,Male,Orthopedics,COVID-19,Eric Bartlett,2025-01-10,2024-11-27,154328.37,Nelsonview,Yes
+PID1697,Bonnie Henderson,80,Female,Cardiology,Asthma,Joshua Phillips MD,2025-04-11,2025-01-25,103347.5,Susanville,Yes
+PID1698,Pamela Jacobs,69,Female,Cardiology,Hypertension,Kim Williams,2024-09-28,2024-09-12,102238.38,East Alexis,Yes
+PID1699,Rachel Becker,4,Female,Orthopedics,Healthy Checkup,Ryan Jackson,2025-01-07,2025-05-20,97874.14,Wilsonchester,No
+PID1700,Alan Romero,51,Male,Oncology,Diabetes,Kimberly Medina,2024-05-01,2025-07-25,59990.36,East Joshualand,No
+PID1701,Hannah Sanchez,76,Male,Oncology,Asthma,Nicole Burton,2024-10-27,2025-04-13,130654.11,New Nathanport,Yes
+PID1702,Alejandro Aguilar,73,Female,Cardiology,Flu,Kristy Wise,2024-04-22,2025-05-25,64742.24,Kaitlynberg,Yes
+PID1703,Kevin Gardner,85,Other,Orthopedics,COVID-19,Thomas Clark,2024-01-20,2024-12-29,17386.74,West Kaitlyn,No
+PID1704,Mitchell Rose,4,Female,Orthopedics,COVID-19,Catherine Barnes,2024-10-17,2024-09-02,20095.33,West Christopher,Yes
+PID1705,Crystal Ortiz,11,Male,Pediatrics,Flu,Christopher Ryan,2024-04-17,2025-06-13,194354.13,East Bobbyborough,No
+PID1706,Mrs. Vanessa Gray,83,Male,General Medicine,Healthy Checkup,Timothy Castillo,2023-12-10,2024-11-13,154890.39,Danielsville,Yes
+PID1707,Tonya Leon,55,Female,Oncology,Asthma,Antonio Woods,2024-05-26,2025-05-22,107107.96,Lake Mackenzieborough,Yes
+PID1708,Susan Lozano,18,Other,Oncology,Healthy Checkup,Timothy Mcdonald,2024-09-21,2025-05-15,125759.68,New Alanview,No
+PID1709,William Lopez,60,Other,Pediatrics,Flu,Kayla Frey,2024-08-08,2025-05-02,42945.51,Porterport,Yes
+PID1710,Jerry Parks,24,Male,Neurology,Flu,Michael Bauer,2024-06-14,2024-09-27,126273.38,Port Richard,No
+PID1711,Lori Payne,7,Other,Oncology,Cancer,Paul Jackson,2025-01-31,2024-09-14,43421.85,North Albertland,Yes
+PID1712,Tina Cowan,34,Other,Pediatrics,Diabetes,Eric Ramirez,2024-09-22,2025-05-19,137395.63,Brooketown,No
+PID1713,Jonathon Rivera,49,Other,Orthopedics,Arthritis,Martin Turner,2024-04-01,2025-01-22,167297.35,New Brian,Yes
+PID1714,Cindy Floyd,42,Female,Neurology,Diabetes,John Hale,2024-12-26,2024-10-12,41910.33,Johnmouth,Yes
+PID1715,Amanda Smith,28,Male,Cardiology,Flu,Brian Freeman,2025-08-28,2025-06-20,165920.99,Moranfort,No
+PID1716,Christopher Myers,59,Female,Orthopedics,Asthma,Richard Ryan,2025-05-13,2025-01-02,175848.81,Bondberg,No
+PID1717,Tiffany Stone,42,Other,Neurology,Diabetes,Alyssa Kennedy,2025-01-23,2024-12-18,148533.63,North Jeffreyborough,No
+PID1718,Danielle Robinson,44,Male,General Medicine,Asthma,Alexander Werner,2024-04-09,2025-03-04,87612.31,Port Bill,Yes
+PID1719,Thomas Hunter,49,Female,Pediatrics,Diabetes,Jerry Hunt,2024-03-13,2025-01-06,163534.12,Josephville,Yes
+PID1720,Justin White,36,Male,General Medicine,Arthritis,Dave Jones,2024-02-23,2025-01-31,15351.98,Cynthiabury,No
+PID1721,Nicole Morton,54,Female,Orthopedics,COVID-19,Melissa Norton,2025-08-18,2025-02-11,137522.66,Davisburgh,No
+PID1722,David Mitchell,33,Male,General Medicine,Hypertension,Jeffrey Boyd,2023-12-26,2024-12-16,5726.84,Bowmanville,Yes
+PID1723,Lori Aguilar,11,Female,Neurology,Flu,Megan Romero,2025-08-13,2024-10-11,143656.79,South Tina,No
+PID1724,Dr. Tara Mendez,61,Other,Cardiology,Flu,Mary Henderson,2024-05-05,2025-06-26,8539.38,Andrewshire,Yes
+PID1725,Brian Morris,3,Female,General Medicine,Arthritis,Matthew Holloway,2024-02-16,2025-03-09,15576.36,Ethanfort,No
+PID1726,Sylvia Barton,70,Other,Orthopedics,Healthy Checkup,Carol Young,2025-08-03,2025-05-21,36420.44,Moorebury,No
+PID1727,Amber Robinson,7,Female,Orthopedics,Diabetes,John Greene,2024-01-18,2024-11-16,51129.69,West Robert,Yes
+PID1728,Krista Mcmahon MD,45,Other,Oncology,Cancer,Kenneth Carter,2023-10-18,2025-07-29,15017.98,East Pamela,Yes
+PID1729,Mary Lara,29,Other,General Medicine,COVID-19,Deborah Mcguire,2024-04-23,2025-03-08,164502.24,Jasontown,Yes
+PID1730,Melody Evans,84,Female,Neurology,Hypertension,Christian Adams,2023-12-28,2025-04-23,182286.33,Hansenbury,No
+PID1731,Andrea Guerrero,9,Female,Neurology,Diabetes,Karen Rasmussen,2025-01-17,2024-12-15,82118.92,Sullivanville,Yes
+PID1732,Michael Garcia,84,Male,Oncology,Flu,James Parks,2024-07-25,2025-06-01,90774.01,Changville,Yes
+PID1733,Joe Johnson,6,Female,General Medicine,Arthritis,Beverly Petty,2024-06-14,2025-04-02,81485.16,East Michaelland,Yes
+PID1734,Bryce Watson,4,Male,Pediatrics,Asthma,Randall Martinez,2023-11-02,2025-02-03,63964.44,North Matthew,No
+PID1735,Johnny Reese,32,Female,Pediatrics,Healthy Checkup,Jennifer Jones,2024-03-09,2025-06-04,78510.87,Deborahmouth,No
+PID1736,Teresa Dunn,26,Male,Oncology,Hypertension,Deanna Conner,2024-04-28,2024-11-19,24542.85,Lake Angelaville,No
+PID1737,Eric Higgins,3,Other,Orthopedics,Hypertension,Preston Chen,2025-06-17,2025-08-06,2173.89,Kyleland,No
+PID1738,Yvonne Williams,80,Female,Cardiology,Cancer,Brandon Bryant,2025-03-20,2024-11-28,144336.85,Josephville,Yes
+PID1739,Robert Mcmillan,20,Other,Pediatrics,Arthritis,Jasmin Wright,2024-05-30,2024-11-22,13584.28,Michaeltown,Yes
+PID1740,Briana Duncan,31,Female,General Medicine,Hypertension,Stephanie Thomas,2023-09-01,2025-06-25,149444.26,New Amberborough,No
+PID1741,David Frederick,17,Male,Cardiology,Diabetes,Donna Conner,2024-05-19,2024-10-23,10057.85,East Elizabethmouth,No
+PID1742,Devon Wagner,61,Female,Neurology,Arthritis,Tony Thomas,2025-03-08,2025-01-31,169802.0,Katherineshire,No
+PID1743,Wanda Morris,86,Male,Neurology,Cancer,Daniel Gray,2024-10-26,2025-05-12,72182.33,East Katrinamouth,No
+PID1744,Lisa Miller,15,Male,Pediatrics,Flu,Matthew Hubbard,2024-02-14,2025-03-17,101064.55,West Douglas,Yes
+PID1745,Carolyn Davis,73,Female,Orthopedics,COVID-19,Gina Drake,2024-05-07,2024-10-17,58677.48,Butlerstad,No
+PID1746,Michael Roberts,28,Other,Neurology,COVID-19,Jose May,2024-10-16,2025-01-06,137489.85,Jameshaven,Yes
+PID1747,Madeline Martin,60,Female,Cardiology,Asthma,Heather Patel,2024-05-20,2025-08-17,121706.6,East Cindyland,No
+PID1748,Kelly Burke,90,Other,Orthopedics,Arthritis,Elijah White,2024-01-03,2025-03-14,57021.97,Latoyaborough,No
+PID1749,Isaac Webster,33,Male,Pediatrics,Asthma,Miss Isabel Johnson,2023-12-22,2025-05-06,185411.49,New Cynthiaberg,Yes
+PID1750,Samantha Manning,48,Female,Neurology,Asthma,Karen Villegas,2023-10-30,2025-06-24,76901.3,Jonesstad,No
+PID1751,Leon Decker,22,Female,Pediatrics,Healthy Checkup,Kimberly Thompson,2024-03-05,2025-02-03,164602.35,South Brittany,Yes
+PID1752,Randy Hernandez,78,Other,Orthopedics,COVID-19,Steven Lee,2024-10-26,2025-01-03,7133.01,Molinaview,Yes
+PID1753,Ronald Allen,78,Female,Orthopedics,Flu,Michael Saunders,2024-09-08,2024-12-30,32108.37,Port Robert,No
+PID1754,Michelle Spencer,15,Male,Orthopedics,Hypertension,Jessica Taylor,2023-09-23,2025-08-17,44753.28,Davidbury,No
+PID1755,Heather Nguyen,21,Female,Oncology,Flu,Kevin Duncan,2023-09-20,2024-11-11,149604.03,Lake Valerie,Yes
+PID1756,William Rivas,40,Male,General Medicine,Cancer,Jamie Evans,2024-06-12,2024-10-12,159557.32,Jonathanmouth,Yes
+PID1757,Todd Clark,14,Male,Oncology,Hypertension,Manuel Higgins,2023-11-04,2025-08-01,170044.02,East David,No
+PID1758,Lisa Cole,75,Other,Cardiology,Cancer,Joe Smith,2024-06-24,2025-02-01,59700.72,Olsonstad,Yes
+PID1759,Erin White,4,Other,Orthopedics,Hypertension,Ruth Archer,2024-07-20,2025-05-06,127175.09,Heatherland,No
+PID1760,Melissa Jimenez,40,Male,General Medicine,Cancer,Gregory Smith,2025-02-11,2025-05-28,60313.24,Lake Leslie,Yes
+PID1761,Carla Tanner,74,Other,Orthopedics,Healthy Checkup,Stephen Wilson,2024-01-10,2025-01-18,177508.65,Romanchester,Yes
+PID1762,Mrs. Amber Davis,87,Other,General Medicine,Healthy Checkup,Tina Aguirre,2024-09-21,2025-05-01,193107.71,North Erikaside,No
+PID1763,Jennifer Hartman,49,Male,Neurology,Asthma,Crystal Brown,2024-01-17,2025-01-11,173560.66,Mosleyland,No
+PID1764,Kelly Frank,51,Female,Cardiology,Arthritis,Sierra Martinez,2024-08-14,2025-03-19,129940.18,East Angela,No
+PID1765,Nathan Smith,26,Female,General Medicine,Hypertension,Clinton Greer,2025-01-22,2025-07-25,191520.94,East Matthew,No
+PID1766,Rebekah Sanchez,10,Other,Cardiology,Asthma,Michelle Howard,2023-11-03,2025-05-23,3218.89,Stephenborough,Yes
+PID1767,Dennis Wolfe,76,Other,Pediatrics,Flu,Felicia Jenkins,2024-01-17,2024-09-08,175078.62,East Christineton,Yes
+PID1768,Taylor Brown,89,Male,Orthopedics,Healthy Checkup,Rachael Bryant,2024-07-29,2025-08-22,29133.4,Marthaland,Yes
+PID1769,Danielle Martinez,81,Male,Neurology,COVID-19,Melanie Harvey,2024-01-21,2025-05-07,9312.85,Port Eileen,Yes
+PID1770,Elizabeth Hernandez,32,Male,Pediatrics,Healthy Checkup,Mark Torres,2023-10-18,2025-05-13,114971.0,Claudiafurt,Yes
+PID1771,Lisa Johnson,14,Male,General Medicine,COVID-19,Alan Potter,2024-12-04,2024-10-23,79422.26,North Connie,No
+PID1772,Kimberly Jones,90,Female,Oncology,Hypertension,Elizabeth Perry,2024-10-03,2025-02-19,109957.56,Port Tommyburgh,Yes
+PID1773,Mary Thomas,39,Male,General Medicine,Hypertension,Zachary Mclean,2025-07-05,2024-11-04,17940.24,New Christopherstad,No
+PID1774,Carl Cortez,88,Male,Orthopedics,Cancer,Richard Shannon,2025-05-19,2025-01-14,42800.53,North Brenda,Yes
+PID1775,Kevin Mejia,77,Other,General Medicine,COVID-19,Jeremy Hernandez,2025-06-27,2024-11-29,148544.67,Lawsonfurt,Yes
+PID1776,Nichole Frederick,16,Male,Cardiology,Diabetes,Larry Carrillo,2025-06-01,2024-11-05,145461.53,Ellenton,No
+PID1777,Stephanie Hebert,73,Other,General Medicine,Flu,Elizabeth Morris,2024-10-26,2024-11-24,43135.65,Lake Kaylashire,Yes
+PID1778,Bianca Banks,6,Male,Orthopedics,Asthma,Angela Harris,2025-08-16,2025-01-07,181219.98,South Natashaside,Yes
+PID1779,Antonio Ochoa,45,Male,Orthopedics,Cancer,Kelly Chen,2025-06-29,2025-07-13,170440.31,Lake Maria,Yes
+PID1780,Lonnie Perry,69,Other,Oncology,Hypertension,Tabitha Sullivan,2025-06-19,2025-05-08,29348.57,Smithchester,No
+PID1781,Kelly Wood,55,Female,Neurology,Flu,Karen Castillo,2025-06-02,2025-05-02,37614.55,West Jesse,Yes
+PID1782,Terri Price,85,Female,Neurology,Asthma,Anthony Morales,2025-06-25,2024-11-23,123760.1,Christopherland,Yes
+PID1783,Curtis Carney,48,Other,Neurology,Arthritis,Doris Novak,2025-06-26,2024-12-03,51295.61,New Elizabeth,No
+PID1784,Lindsay Huerta,9,Other,Pediatrics,Diabetes,Monica Burns,2024-11-28,2025-01-20,23809.89,Frazierfurt,No
+PID1785,Jeremy Neal,65,Female,Neurology,COVID-19,Dennis Garrison,2023-12-17,2025-08-21,134524.6,West Andrew,No
+PID1786,Alexandria Smith,83,Other,Pediatrics,COVID-19,Courtney Roberts,2024-11-03,2025-06-10,113891.24,East Thomasport,No
+PID1787,Brittney Jennings,44,Other,General Medicine,Cancer,Darryl Mooney,2025-06-07,2025-08-08,11823.27,Baileyport,No
+PID1788,James Hernandez,2,Other,Oncology,Diabetes,Brianna Hernandez,2025-02-10,2025-04-03,150457.32,Rachelstad,No
+PID1789,Oscar Trevino,54,Other,Orthopedics,Arthritis,Tiffany Mercado,2025-02-20,2025-04-09,198025.21,Michellebury,Yes
+PID1790,Laura Walker,63,Other,Pediatrics,Healthy Checkup,John Villanueva,2025-08-03,2025-08-28,110221.37,East Omarmouth,Yes
+PID1791,William Carrillo,14,Female,General Medicine,Flu,Jesse Gilmore,2024-07-25,2025-01-24,129290.23,Thorntonchester,Yes
+PID1792,Ruth Miller,56,Other,Oncology,Hypertension,Tracy Spencer,2025-08-06,2025-07-16,15555.77,Flynnberg,Yes
+PID1793,Dawn Deleon,47,Female,Pediatrics,Healthy Checkup,Don Lopez,2024-03-12,2025-02-20,134665.36,East Vanessa,Yes
+PID1794,Douglas Williams,82,Male,Oncology,Hypertension,Katherine Swanson,2024-08-29,2025-05-28,50886.84,Aguilarchester,Yes
+PID1795,Danielle Lopez,59,Female,General Medicine,Cancer,Holly Thomas,2023-09-19,2024-11-01,40286.1,Bryantborough,No
+PID1796,Brooke Harmon,20,Male,Neurology,Hypertension,Juan Martinez,2023-12-23,2025-06-14,116538.54,West Jasonstad,Yes
+PID1797,Martin Henderson,56,Female,Neurology,Diabetes,Sara Lee,2024-10-12,2025-06-06,190356.44,Smithfurt,Yes
+PID1798,Mr. Justin Smith,23,Female,General Medicine,Diabetes,Warren Smith,2025-06-02,2025-02-19,72070.53,New Taraville,Yes
+PID1799,Robert Johnston,67,Other,Oncology,Flu,Elizabeth Fernandez,2024-01-11,2025-06-25,134587.82,Lake Michelleland,Yes
+PID1800,Nicholas Lamb,84,Female,Cardiology,Cancer,John Simmons,2024-04-13,2024-10-24,47672.04,Christophertown,No
+PID1801,Diana Walls,35,Female,Oncology,Flu,Jason Zhang,2024-04-17,2025-02-19,57742.29,West Jasmine,Yes
+PID1802,Aaron Gonzalez,79,Other,Pediatrics,Arthritis,Austin Copeland,2023-09-20,2025-05-18,14891.97,Kelleyfurt,No
+PID1803,Matthew Roy,69,Male,Oncology,Asthma,Kristen Schneider,2024-01-17,2024-11-07,39506.22,North Vanessa,Yes
+PID1804,Joel Nielsen,62,Female,General Medicine,Hypertension,Robert Johnson,2025-03-22,2024-10-05,97686.38,West Lori,No
+PID1805,Zachary Brown,60,Other,Orthopedics,COVID-19,Melissa Martin MD,2025-02-12,2025-03-14,66340.87,Karenhaven,No
+PID1806,Linda Buckley,56,Male,Cardiology,Hypertension,Jason Jones,2024-12-22,2024-09-21,132225.03,South Kristen,Yes
+PID1807,Chelsey Graham,76,Female,Oncology,Diabetes,Roy Coleman,2024-10-08,2024-10-27,138998.17,Port Katrinaton,No
+PID1808,Jamie Moran,35,Female,Cardiology,Hypertension,Jasmine Diaz,2025-06-13,2025-04-08,31326.6,Reevesfurt,No
+PID1809,Benjamin Harrison,42,Female,Cardiology,Flu,Miguel Sparks,2024-09-25,2024-10-21,113805.52,Port John,No
+PID1810,Stephen Hull MD,32,Male,Oncology,Healthy Checkup,Melanie Mckenzie MD,2025-03-06,2025-06-12,161732.25,Arnoldton,Yes
+PID1811,Alexis Stein,12,Male,Oncology,Cancer,Alexa Zuniga,2023-10-09,2025-07-21,191773.13,Port Mikaylahaven,Yes
+PID1812,John Bennett,36,Female,Neurology,Hypertension,Todd Coleman,2023-11-29,2025-08-16,34559.26,Maryport,Yes
+PID1813,Edward Bowman,58,Female,Oncology,Asthma,Lisa Reyes,2025-08-01,2024-12-28,63329.74,Jenniferhaven,Yes
+PID1814,Beth Martin,32,Male,Oncology,Hypertension,Jessica Martin,2024-12-09,2024-10-05,157346.36,East Steven,Yes
+PID1815,Rebecca Snyder,60,Other,Neurology,Diabetes,Nicholas Martinez,2024-11-03,2025-02-19,142727.63,Sarahhaven,No
+PID1816,Kimberly Esparza,73,Male,Neurology,Healthy Checkup,Laurie Mack,2025-07-30,2024-12-16,128526.87,Francofurt,Yes
+PID1817,Susan Baker,79,Other,Orthopedics,Diabetes,Lisa Larson,2025-05-11,2025-05-24,56059.29,Robinsonmouth,No
+PID1818,Roger Wong,86,Other,Oncology,Cancer,Elizabeth Morrison,2025-06-11,2025-07-08,72537.71,Teresaview,No
+PID1819,William Weaver,49,Other,Pediatrics,Arthritis,Pedro Rivera,2023-11-28,2024-10-15,136236.46,Kylemouth,Yes
+PID1820,Theresa Ramos,44,Female,Cardiology,Arthritis,Nicholas Miller,2024-05-12,2024-08-31,66981.03,Carrillobury,Yes
+PID1821,Christopher Allison,4,Female,General Medicine,Healthy Checkup,Nancy Singh,2024-06-01,2024-12-25,96510.84,Stewartbury,Yes
+PID1822,Dr. Eric Medina,64,Other,Neurology,Diabetes,Louis Hill,2024-08-24,2025-07-26,89626.24,West Kaitlyn,Yes
+PID1823,Kari Henson,42,Other,General Medicine,Arthritis,Joseph Herman,2023-10-23,2024-12-17,155178.63,Nashfurt,Yes
+PID1824,Steven Johns,24,Other,Oncology,Arthritis,Luis Foster,2024-12-07,2025-02-11,97907.31,South Ericside,No
+PID1825,Michael Armstrong,63,Male,Pediatrics,Cancer,Pedro Collins,2024-02-03,2024-09-12,22657.69,Angelaport,No
+PID1826,Rachel Yoder,28,Female,Cardiology,Asthma,Amanda Murphy,2024-10-04,2025-08-08,129464.77,Frankfort,No
+PID1827,Lori Henry,46,Other,Oncology,Flu,Kimberly Sutton,2025-04-30,2025-04-12,17312.76,Michealview,No
+PID1828,Natalie Chandler,34,Other,Pediatrics,Cancer,Jonathon Patel,2024-02-27,2024-09-24,56842.57,North Billy,Yes
+PID1829,Lori Tate DDS,44,Male,Cardiology,COVID-19,Shannon Gray,2025-05-10,2025-07-21,165462.29,Nicholasview,No
+PID1830,James Barrera,36,Female,Pediatrics,COVID-19,David Campos,2024-07-02,2024-12-16,178368.11,West Geraldton,No
+PID1831,Casey Sullivan,77,Other,Neurology,Healthy Checkup,Zachary Chambers,2024-04-23,2025-04-25,40089.95,North Lauren,Yes
+PID1832,Debra Holder,90,Female,Oncology,Cancer,Dawn Jones,2023-09-14,2025-02-25,146975.38,Bairdtown,No
+PID1833,Allison Mcknight,36,Other,Pediatrics,Diabetes,Christy Randall,2024-01-23,2025-07-23,125697.16,Cherylton,No
+PID1834,Thomas Callahan,72,Male,Pediatrics,Flu,Amy Carroll,2025-05-02,2025-06-25,145757.65,South Brian,No
+PID1835,Dennis Hayes,2,Male,Oncology,COVID-19,Kara Collins,2024-03-07,2024-10-05,178528.93,East Katrinafurt,Yes
+PID1836,Beth Smith,67,Female,Cardiology,Healthy Checkup,Sarah Watts,2025-02-06,2024-12-03,170067.87,Joshuastad,Yes
+PID1837,Christine Johns,25,Male,Oncology,Arthritis,Kayla Martinez,2025-07-06,2025-03-17,126693.67,Sandramouth,No
+PID1838,Margaret Maxwell,11,Female,Pediatrics,Healthy Checkup,Matthew Baker,2025-06-17,2024-12-02,162715.84,Michaelborough,No
+PID1839,Laura Baxter,31,Other,General Medicine,Diabetes,Derrick Douglas,2024-07-31,2025-07-25,116201.26,Sanchezport,Yes
+PID1840,Lisa Huerta,53,Male,Orthopedics,Hypertension,Jason Meadows,2025-01-05,2025-06-11,154070.85,Davidton,Yes
+PID1841,Mark Weaver,63,Other,General Medicine,COVID-19,Joshua Green,2025-04-13,2024-09-20,43339.38,Tracystad,No
+PID1842,Matthew Edwards,72,Other,Cardiology,Arthritis,Michael Smith,2024-05-15,2025-01-28,8294.61,East Gabrielleland,Yes
+PID1843,Dawn Dunn,31,Male,Pediatrics,Cancer,Craig Carlson,2024-02-11,2025-02-16,52862.65,Meganhaven,No
+PID1844,Kelly Gutierrez,89,Male,Orthopedics,Arthritis,Michelle Boone,2024-03-28,2025-01-12,178903.2,Lindatown,Yes
+PID1845,Jeffrey Martinez,61,Male,Cardiology,Flu,Stacey Bridges,2024-08-09,2025-04-09,108395.75,Fostermouth,Yes
+PID1846,Donna Gray,83,Other,General Medicine,Flu,Zachary Buchanan,2024-03-07,2025-05-01,131127.72,East Staceymouth,No
+PID1847,Stephanie Curry,63,Female,Neurology,Diabetes,Autumn Le,2023-11-23,2025-07-26,30577.96,West Kaylahaven,No
+PID1848,Kayla Nguyen,58,Female,Oncology,Arthritis,Michael Fowler,2024-06-09,2024-11-10,79107.17,Lake Jacqueline,No
+PID1849,Zachary Mendoza,3,Other,Cardiology,Asthma,Melissa Compton,2023-12-29,2025-08-02,178396.07,Port Austin,No
+PID1850,Kevin Grant,12,Other,Cardiology,Healthy Checkup,Manuel Jackson,2023-10-11,2025-03-28,118330.55,Lawrencemouth,No
+PID1851,Scott Whitaker,38,Other,Pediatrics,Healthy Checkup,Mr. Steve Wade II,2024-04-17,2025-03-15,171575.67,Heatherborough,No
+PID1852,Robert Farley,29,Male,Orthopedics,Asthma,Sarah Meadows,2025-01-25,2025-05-26,27642.37,Mariamouth,Yes
+PID1853,Scott Green,52,Female,General Medicine,Asthma,Kimberly Rich,2025-02-02,2024-09-01,100723.51,West Teresa,No
+PID1854,Brandy Patel,89,Female,Cardiology,Arthritis,Leslie Chen,2023-12-25,2024-09-02,19020.25,Hoganstad,No
+PID1855,Gina Jimenez,32,Female,Oncology,COVID-19,Karen Austin,2024-04-28,2025-04-16,73409.25,East Jennifer,Yes
+PID1856,Christine Lee,40,Female,Cardiology,Cancer,Kathleen Wells,2025-04-16,2024-11-15,3107.74,Whiteburgh,Yes
+PID1857,Kelly Johnson,85,Female,Cardiology,Diabetes,Robert Wright,2025-02-16,2024-09-07,48537.28,South Daniel,No
+PID1858,Angela Whitehead,75,Female,Pediatrics,Asthma,Marissa Hawkins,2024-07-01,2025-05-16,192836.05,Lake Jill,No
+PID1859,Chris Reed,48,Other,Cardiology,Flu,Martha Schultz,2024-06-11,2025-08-21,196388.79,Parkertown,Yes
+PID1860,Ashley Giles,61,Other,Orthopedics,Diabetes,Kevin Bryant,2023-09-27,2025-08-13,137148.17,Lake Brandonberg,Yes
+PID1861,Kimberly Campbell,71,Male,Pediatrics,COVID-19,Dr. Cody Smith,2025-08-05,2025-04-22,151684.01,Halltown,Yes
+PID1862,Cynthia Miller,68,Other,Neurology,Diabetes,Jared Bell,2025-08-19,2024-12-21,28933.77,Marshallborough,Yes
+PID1863,Elizabeth Villegas,45,Other,Neurology,Healthy Checkup,Ashley Mejia,2024-03-10,2025-02-11,32685.26,Raymouth,No
+PID1864,Maria Palmer,55,Female,General Medicine,Asthma,Katherine Casey,2024-04-07,2025-08-09,113705.09,Port John,No
+PID1865,Todd Roth,71,Male,General Medicine,Flu,Jessica Stevens,2024-09-11,2024-09-29,113596.69,East Davidberg,No
+PID1866,Jason Fletcher,43,Female,General Medicine,Cancer,Kimberly Bennett,2024-09-12,2025-03-18,174566.84,Bentonbury,No
+PID1867,Tiffany Garza,46,Male,Pediatrics,Hypertension,Lynn Kennedy,2023-09-23,2025-04-13,30093.61,Lake Brandonville,Yes
+PID1868,Jenna Jackson,90,Other,Orthopedics,Flu,Ann Taylor,2023-10-18,2025-01-28,146668.89,Amandaville,Yes
+PID1869,Carl Duke,59,Other,Pediatrics,Flu,Michael Robinson,2025-04-30,2025-06-20,187895.88,New Debra,No
+PID1870,James Gonzalez,35,Female,Pediatrics,COVID-19,Crystal Walker,2025-06-27,2025-03-03,9043.55,Williamsmouth,Yes
+PID1871,Tamara Allen,40,Female,Pediatrics,Diabetes,Samantha Pennington,2025-04-13,2025-06-09,152533.0,West Madelineton,No
+PID1872,Nicole Singh,33,Female,Pediatrics,Flu,Gloria Moore,2025-01-15,2024-10-03,47118.23,Lake Barbaraview,Yes
+PID1873,Christopher Young,30,Other,Cardiology,Arthritis,Christopher Wright,2025-08-01,2024-09-26,53607.07,South Sandystad,No
+PID1874,Matthew Maldonado,16,Other,General Medicine,Asthma,Brandon Fields,2025-04-15,2025-01-04,47569.72,Port Jamiechester,No
+PID1875,Jesus Singh,25,Other,General Medicine,Cancer,Renee Rogers,2024-09-30,2024-11-27,134048.53,Lake Julieton,Yes
+PID1876,Jonathan White,41,Male,Oncology,Cancer,John Johnson,2023-09-30,2024-12-12,104059.16,South Carrieland,Yes
+PID1877,Terri Stein,16,Female,Neurology,Flu,Michelle Mckinney,2024-10-10,2025-05-19,158500.63,Stantonville,Yes
+PID1878,Robert Smith,69,Male,General Medicine,Asthma,Colleen Kim,2024-10-22,2025-01-13,78230.53,South Elizabethchester,Yes
+PID1879,Tina Adkins,89,Other,Orthopedics,Asthma,Autumn Johnson,2024-07-12,2025-01-22,183662.49,Brownchester,No
+PID1880,Cody Stewart,24,Other,Cardiology,Diabetes,Larry Casey,2023-10-28,2025-04-10,176428.84,Josephborough,No
+PID1881,Jill Russell,25,Male,Neurology,Asthma,Jerry Hernandez,2024-07-09,2024-12-24,8941.04,New Jake,Yes
+PID1882,Harry Villanueva,28,Female,Oncology,Cancer,Peter Copeland,2024-04-07,2025-02-18,130056.42,New Williamview,No
+PID1883,Joseph Rogers,62,Female,Pediatrics,Flu,Megan Warren,2024-02-20,2024-11-11,21541.78,New Troy,Yes
+PID1884,Michelle Campbell,36,Other,Oncology,Healthy Checkup,Loretta Jones,2024-01-23,2025-08-10,193719.84,South Melissa,No
+PID1885,Lauren Booker,76,Other,Neurology,COVID-19,Adrienne Maldonado,2024-07-04,2024-10-06,127079.83,Mcconnellberg,No
+PID1886,Robert Brown Jr.,68,Other,General Medicine,Cancer,Jim Lee DVM,2024-09-24,2025-08-18,55425.57,Cindyborough,Yes
+PID1887,Michael Maldonado,77,Female,Neurology,Healthy Checkup,Michael Sutton,2024-11-19,2024-09-21,148640.03,South Jessicaside,Yes
+PID1888,Carlos Mcdowell,37,Male,Cardiology,Diabetes,Larry Burgess,2025-08-04,2025-05-30,116147.66,Frosttown,No
+PID1889,Erica Dorsey,13,Other,Cardiology,Hypertension,Haley Day,2023-10-21,2024-11-03,114461.87,North Eric,Yes
+PID1890,Lisa Lewis,25,Other,Orthopedics,Diabetes,Brittany Wright,2024-02-07,2025-08-21,75955.25,Davisview,Yes
+PID1891,Christopher Wallace,38,Male,Pediatrics,Flu,Kellie Good,2025-02-13,2025-04-03,76325.18,Port Alicia,Yes
+PID1892,Thomas Gordon,30,Female,General Medicine,Flu,Randy Hickman,2025-04-10,2025-03-23,117948.09,Scottville,Yes
+PID1893,Tammy Meyer,47,Other,General Medicine,Diabetes,Beth Rivera,2024-04-09,2024-09-06,179747.1,Doylefort,Yes
+PID1894,Emily Diaz,23,Female,Oncology,Healthy Checkup,Michael Buchanan,2025-04-26,2024-10-24,16489.66,Kathleenchester,No
+PID1895,Debra Chan,39,Other,Pediatrics,Diabetes,Crystal Baxter,2024-02-01,2025-01-25,51065.7,New Julie,No
+PID1896,Sheila Bautista,2,Female,Oncology,Asthma,Samuel Jackson,2025-04-16,2024-12-15,194562.15,Lake Johnton,No
+PID1897,David Lee,69,Male,Pediatrics,Flu,Kathleen Rich,2024-09-11,2024-09-02,45356.95,Moniquehaven,No
+PID1898,Heather Wright,17,Other,Neurology,Cancer,Steven Herrera,2024-11-01,2024-09-08,81762.6,Barkermouth,No
+PID1899,Stephen Osborn,36,Other,Neurology,Asthma,Kimberly Doyle,2024-04-09,2024-09-15,163630.12,Sotomouth,Yes
+PID1900,Chris Malone,6,Other,Pediatrics,Cancer,Mitchell Dawson,2024-08-04,2025-03-25,69661.43,Lake Nicole,Yes
+PID1901,Keith Green,7,Other,Orthopedics,Asthma,Felicia Christensen,2024-02-03,2025-05-12,158738.83,Robinsonton,Yes
+PID1902,Matthew Walter,71,Other,Neurology,Diabetes,Alan Martin,2024-10-11,2025-02-15,177547.22,Port Jamesshire,Yes
+PID1903,Sonya Murray,38,Male,Orthopedics,Diabetes,Nicholas Johnson,2025-04-04,2025-07-10,2312.94,Port Jared,Yes
+PID1904,Scott Flores,90,Other,Neurology,Cancer,Ryan Solis,2024-08-16,2024-11-05,176524.81,East Jasminefurt,No
+PID1905,Heather Luna,17,Other,General Medicine,Cancer,Sandra Lewis,2025-05-31,2025-01-27,88539.84,Lake Alexanderburgh,Yes
+PID1906,Thomas Hernandez,82,Female,Cardiology,Hypertension,Michelle Ross,2025-05-20,2025-01-06,46768.16,Port Ryanport,No
+PID1907,Connor Booth,63,Other,Cardiology,Asthma,Emily Alvarado,2025-07-12,2025-06-20,103393.71,Josephport,No
+PID1908,Carolyn Nelson,14,Female,General Medicine,Hypertension,Julia Thomas,2025-01-09,2024-10-05,56881.09,South Ronnie,No
+PID1909,Rachel Brooks,2,Male,Pediatrics,Asthma,Hannah Hess,2023-10-20,2025-02-27,30897.84,Lake Manuelside,Yes
+PID1910,Joshua King,74,Female,Oncology,Arthritis,Jacob Lloyd,2025-03-07,2025-02-22,32314.11,Sosaview,No
+PID1911,Danielle Mitchell,37,Female,Cardiology,Hypertension,Julie Bass,2023-09-29,2025-04-09,120802.04,Briannafurt,Yes
+PID1912,Gina Serrano,61,Male,Neurology,Asthma,Yvonne Austin,2025-01-09,2024-10-11,163574.06,West Joseborough,Yes
+PID1913,Sharon Gross,62,Male,Neurology,COVID-19,Nicholas Rodgers,2024-11-30,2025-06-17,132560.82,Port Brandystad,No
+PID1914,Michael Johnston,57,Female,Cardiology,Asthma,James Garcia DVM,2025-06-06,2024-09-17,83508.12,Port Andrewtown,No
+PID1915,Bonnie Mercado,44,Female,Cardiology,Cancer,Joseph Mcdaniel,2024-02-13,2024-12-26,66714.73,Greeneville,No
+PID1916,Morgan Wyatt,24,Male,Oncology,Cancer,Tommy Burns,2024-02-24,2024-10-16,23554.4,Elizabethfort,No
+PID1917,Michael James DVM,7,Male,Cardiology,Arthritis,James Garcia,2025-04-24,2025-07-15,135370.66,Erinstad,Yes
+PID1918,Christie Phelps,33,Male,Pediatrics,Healthy Checkup,Peggy Atkinson,2025-02-22,2025-03-24,96325.21,North Robert,Yes
+PID1919,Angel Walker,62,Male,Oncology,Asthma,David Thompson,2024-12-02,2024-11-14,118567.39,West Christinaland,Yes
+PID1920,Lance Campbell,15,Male,General Medicine,Cancer,Cathy Torres,2025-06-26,2025-04-12,129804.59,New Brittanybury,No
+PID1921,Emily Harris,9,Female,General Medicine,Asthma,Lucas Walker,2025-02-04,2024-09-20,82768.94,Vernonmouth,Yes
+PID1922,Scott Ramirez,52,Male,Cardiology,Flu,Craig Walker,2024-11-01,2025-07-28,49490.39,West Christina,Yes
+PID1923,Cathy Brown,63,Other,Neurology,Cancer,Charlotte Stafford,2023-11-27,2025-08-15,26449.14,Veronicamouth,Yes
+PID1924,Andrea Reed,10,Other,General Medicine,Arthritis,Kelly Martin,2024-02-14,2024-11-11,118877.18,East Stephanie,Yes
+PID1925,Lance Wright,74,Other,Cardiology,COVID-19,Grant Miles,2025-02-10,2024-09-19,27810.09,Jeanetteton,Yes
+PID1926,Shelly Todd,81,Other,Pediatrics,COVID-19,Michael Singleton,2024-09-06,2024-09-14,103015.92,North Michaelton,No
+PID1927,Morgan Garcia,88,Male,Pediatrics,Cancer,Jerome Gonzalez,2024-08-27,2025-06-10,178268.74,Josephmouth,Yes
+PID1928,Juan Dunn,7,Other,Neurology,Cancer,Joshua Munoz,2023-09-27,2025-02-26,30226.15,Donnaport,Yes
+PID1929,Matthew Adams,20,Female,Oncology,Diabetes,Wayne Mitchell,2024-01-12,2025-07-01,34101.93,West Julia,Yes
+PID1930,James Herrera,20,Other,Neurology,Arthritis,Bryan Walker,2025-04-23,2025-04-06,184566.93,Deleonmouth,No
+PID1931,Charles Hill,73,Male,Cardiology,Diabetes,William Turner,2024-05-01,2025-01-19,103811.5,Lake Earlmouth,No
+PID1932,Marc Jordan,39,Other,Neurology,Cancer,Ryan Gross,2024-02-13,2025-02-09,81685.81,Jillianville,Yes
+PID1933,Patrick Vargas PhD,11,Female,Oncology,Asthma,Daniel Rose,2024-08-16,2025-07-08,193879.49,Delgadoport,Yes
+PID1934,Robert Lewis,32,Male,Orthopedics,Flu,Kevin Watkins,2025-04-19,2025-06-27,127886.92,Mcfarlandstad,Yes
+PID1935,Bruce Hardin,16,Male,Neurology,Hypertension,Kimberly Moore,2025-08-12,2024-11-10,175823.29,Lake Christian,No
+PID1936,Nicole Mcdonald,72,Male,General Medicine,Healthy Checkup,Grace Walker,2024-08-18,2024-10-21,145866.89,Vickieside,Yes
+PID1937,Scott Johnson,54,Other,Oncology,Cancer,Alexander Taylor,2023-09-19,2025-05-17,164439.36,Josephstad,Yes
+PID1938,Jennifer Bass,78,Other,Orthopedics,Asthma,Angela Stout,2024-08-15,2025-04-06,189503.52,North Christopher,No
+PID1939,Kelly Garner,77,Male,Oncology,Hypertension,Cassandra Carpenter,2023-11-26,2024-09-05,44102.09,Tashachester,Yes
+PID1940,Corey Hutchinson,80,Other,Oncology,Flu,Troy Clark,2024-09-23,2024-09-23,121698.65,Shariport,No
+PID1941,Jessica Miller,29,Female,General Medicine,Asthma,Wesley Miller,2025-07-05,2024-09-25,94811.28,Salazarview,No
+PID1942,Marvin Thompson,67,Male,Orthopedics,Asthma,Sally Ward,2025-08-07,2025-04-24,96852.01,Lake Dennis,Yes
+PID1943,Elizabeth Hughes,49,Female,Neurology,Cancer,Christopher Riley,2023-11-12,2025-01-21,44653.4,Kimberlyside,Yes
+PID1944,Daniel Norris,58,Female,Orthopedics,Hypertension,Amanda Taylor,2024-05-24,2024-11-01,82742.6,Tateborough,No
+PID1945,Mark Jackson,57,Other,Neurology,Asthma,Stuart Wilson,2025-03-13,2024-10-06,29399.72,Matthewsmouth,No
+PID1946,Brandon Norris,39,Other,General Medicine,Healthy Checkup,Brendan Patterson,2024-03-01,2025-04-12,116946.58,Daviston,No
+PID1947,Daniel Johnson,76,Male,Oncology,Diabetes,Jack James,2025-05-03,2025-03-29,153730.53,North Donald,No
+PID1948,Melissa Romero,55,Female,Neurology,COVID-19,Carl Robinson,2024-12-23,2025-07-14,125019.14,West Karenchester,Yes
+PID1949,Donald Nelson,40,Other,Pediatrics,Flu,Sarah Flores,2024-04-09,2024-12-06,102650.18,East Francisco,No
+PID1950,Jason Schaefer,73,Female,Orthopedics,Flu,Gregory Cowan,2024-02-26,2025-07-26,34376.62,Williamsland,Yes
+PID1951,Alexander Spencer,80,Other,Orthopedics,Hypertension,Patrick Flores,2025-08-04,2025-03-01,137432.64,East Brandon,No
+PID1952,Mr. Sean Mosley,8,Female,Cardiology,Asthma,Paul Hall,2024-01-15,2025-01-16,184548.04,Mcgeehaven,No
+PID1953,Mary Sanchez,79,Male,Oncology,COVID-19,Justin Johnson,2023-09-09,2025-07-17,119710.14,Lake Tanyaview,Yes
+PID1954,Melissa Smith,13,Other,Oncology,Hypertension,Elizabeth Lopez,2024-01-29,2024-12-03,14699.74,North Ericshire,Yes
+PID1955,Brooke Hays,27,Male,General Medicine,Diabetes,Terry Anderson,2024-04-21,2025-06-19,76264.06,North Audreyview,No
+PID1956,Antonio Tucker,81,Female,Neurology,Diabetes,Michael Holland,2024-10-29,2025-07-25,27310.43,Scottfort,No
+PID1957,Melissa Diaz,28,Female,General Medicine,Arthritis,Isaac Rollins,2024-02-05,2024-12-11,4295.96,South Andreachester,No
+PID1958,Gary Carpenter,34,Male,General Medicine,Healthy Checkup,Jonathon Cisneros,2025-05-30,2025-08-07,105019.56,Lewisfort,Yes
+PID1959,Rebecca Howell,85,Female,Pediatrics,Arthritis,Dr. Cynthia Duncan,2023-10-18,2025-07-26,181958.51,South Jessicaburgh,Yes
+PID1960,Michele Simmons,11,Other,Oncology,Cancer,David Sherman,2023-09-12,2024-11-04,137189.2,East Kathrynmouth,Yes
+PID1961,Nicholas Davis,21,Other,Pediatrics,Arthritis,Calvin Luna,2024-08-28,2024-12-02,165476.32,Davidfurt,Yes
+PID1962,Brian Mcmahon,31,Female,Cardiology,Healthy Checkup,Stacy Copeland,2025-07-16,2025-01-05,121496.69,Thomasfort,Yes
+PID1963,Barry Keller,23,Female,Orthopedics,Arthritis,Kayla Wolf,2024-02-03,2025-01-07,36307.01,South Adam,No
+PID1964,Charles Perry,71,Female,General Medicine,Asthma,Casey Henderson,2024-05-30,2025-02-05,180420.04,Lopezburgh,No
+PID1965,Ryan King,10,Female,General Medicine,Arthritis,Jessica Perkins,2024-12-10,2024-10-05,120362.95,East Larryshire,No
+PID1966,Mario Potter,21,Other,Pediatrics,Hypertension,Brandi Baird,2025-02-26,2024-10-19,175672.77,North Robert,No
+PID1967,Samantha Chase,1,Other,Oncology,Healthy Checkup,Danielle Guerrero,2024-03-22,2025-08-11,106754.56,South Heidi,No
+PID1968,Edwin Sanchez,53,Female,Orthopedics,Flu,Heather Baker,2025-06-11,2025-04-09,150724.25,Taylorberg,No
+PID1969,Benjamin Lopez,58,Male,General Medicine,Cancer,Joshua Hall,2023-10-31,2025-01-21,19544.8,Williamside,Yes
+PID1970,Patricia Beard,89,Male,Pediatrics,Healthy Checkup,Daniel George,2023-11-16,2024-12-13,132219.13,West Kathyland,No
+PID1971,Holly Hernandez,77,Other,Pediatrics,Hypertension,Elaine Moon,2024-08-20,2024-10-09,180494.97,Micheleview,No
+PID1972,Jason Perez,61,Male,Neurology,Diabetes,Kenneth Kelly,2024-11-08,2025-01-27,108317.91,Nathanielmouth,No
+PID1973,Linda Harris,38,Female,Orthopedics,COVID-19,Danielle Becker,2023-10-21,2025-05-03,1238.84,Hoovertown,Yes
+PID1974,Elizabeth Green,5,Male,Pediatrics,Diabetes,William Kelly,2024-08-26,2025-02-15,187609.23,Smithland,Yes
+PID1975,Kelli Williams,30,Other,Neurology,Asthma,Erika Owens,2025-06-28,2025-08-16,136033.31,North Donald,No
+PID1976,Kenneth Best,37,Female,Oncology,COVID-19,Michael Gomez,2024-09-09,2025-07-01,86867.87,Palmerview,Yes
+PID1977,Kim Johnson,37,Female,Pediatrics,Hypertension,Robert Johnson,2024-01-14,2025-07-14,84716.12,Lake Ryan,Yes
+PID1978,Miguel Powell,90,Other,Neurology,Hypertension,Mario Diaz,2024-04-21,2024-11-28,175090.04,Darrenland,Yes
+PID1979,Cynthia King,59,Male,Neurology,Asthma,Paula Holmes,2024-10-14,2025-01-23,139830.92,Patrickmouth,Yes
+PID1980,Edward Carlson,10,Other,Orthopedics,Cancer,Nathan Simpson,2024-07-29,2025-02-17,86362.3,Yeseniachester,No
+PID1981,Tina Patterson,88,Other,General Medicine,Arthritis,Stephanie Duncan,2025-01-25,2025-03-17,187745.9,Sherihaven,Yes
+PID1982,Jose Burke,30,Male,Neurology,Cancer,Douglas Carter,2025-01-13,2025-07-02,96942.57,Port Sarah,Yes
+PID1983,Jessica Wilson,34,Female,Pediatrics,Hypertension,Mary Hubbard,2025-08-04,2025-03-28,153965.66,East Tony,No
+PID1984,Gregory Williams,81,Male,Cardiology,Hypertension,Stephanie Stevens,2024-04-15,2025-05-18,70753.04,West Theresa,No
+PID1985,Erica Miller,76,Male,Oncology,Asthma,Todd Russell,2025-01-20,2025-02-15,161119.59,Huangton,Yes
+PID1986,Rachel Boyd,85,Female,Pediatrics,Healthy Checkup,Joshua Shaw,2024-02-12,2025-05-17,181663.92,North Jesusbury,No
+PID1987,Ariana Clay,26,Female,Pediatrics,Diabetes,James Sanchez,2023-12-02,2024-09-06,167600.91,Nunezfort,No
+PID1988,Jessica Santana,55,Other,Oncology,Arthritis,Stacy Colon,2024-04-24,2025-03-21,115648.04,Richardville,Yes
+PID1989,Jamie Mcneil,15,Male,Oncology,Cancer,Carly Watts,2024-10-04,2024-09-24,85672.39,Christopherberg,Yes
+PID1990,Steven Taylor,70,Female,Neurology,Arthritis,Thomas Wolf,2023-09-24,2025-04-30,51649.09,Mendozabury,Yes
+PID1991,Elizabeth Hall,29,Male,Pediatrics,Cancer,Nathan Hernandez,2025-04-01,2025-02-15,153405.92,Benjaminburgh,No
+PID1992,Stephanie Hogan,83,Male,Neurology,Diabetes,Chelsea Miller,2024-09-15,2025-01-08,182106.99,Michelleland,No
+PID1993,Jean Sims,20,Female,Orthopedics,Hypertension,Brandon Bailey,2024-12-17,2024-11-17,17679.7,New John,Yes
+PID1994,Norma Potter,35,Female,Neurology,Asthma,Janet Ruiz,2025-02-08,2024-09-26,120060.18,Colleenborough,No
+PID1995,Stephen Tucker,19,Male,Orthopedics,Flu,John Moreno,2024-06-15,2025-02-16,109202.47,Rogersfort,No
+PID1996,Margaret Fisher,10,Female,General Medicine,Flu,Lori Edwards,2024-08-16,2025-02-24,52303.19,Pricetown,No
+PID1997,Kelly Herring,8,Male,Cardiology,Arthritis,Sarah May,2025-08-03,2024-09-15,2088.42,Sandersfort,Yes
+PID1998,Joshua Garza,22,Female,Pediatrics,COVID-19,Diane Dixon,2023-11-29,2025-03-04,148985.49,Daltonland,Yes
+PID1999,Michelle Holmes,40,Other,Orthopedics,COVID-19,Beth Fisher,2024-03-25,2024-09-07,2415.7,Barkerberg,No
